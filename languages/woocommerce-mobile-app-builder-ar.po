@@ -1,0 +1,1846 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: wpmu-dev-dashboard\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-03-23 14:22+0000\n"
+"PO-Revision-Date: 2021-02-22 11:47+0000\n"
+"Last-Translator: admin <hagarwal@velsof.com>\n"
+"Language-Team: Arabic (Saudi Arabia)\n"
+"Language: ar-SA\n"
+"Plural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100 >= 3 "
+"&& n%100<=10 ? 3 : n%100 >= 11 && n%100<=99 ? 4 : 5;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Loco-Source-Locale: ar_AE\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Crowdin-Project: wpmu-dev-dashboard\n"
+"X-Crowdin-Project-ID: 416728\n"
+"X-Crowdin-Language: ar\n"
+"X-Crowdin-File: woocommerce-mobile-app-builder.po\n"
+"X-Crowdin-File-ID: 20\n"
+"\n"
+"X-Loco-Parser: loco_parse_po"
+
+msgid "Configuration values have been saved successfully."
+msgstr "تم حفظ قيم التكوين بنجاح."
+
+msgid "Push Notification has been sent successfully."
+msgstr "تم إرسال إخطار الدفع بنجاح."
+
+msgid "Your order"
+msgstr "طلبك"
+
+#, fuzzy
+msgid "About Us"
+msgstr ""
+"#-#-#-#-#  catalog.po (wpmu-dev-dashboard)  #-#-#-#-#\n"
+"من نحن\n"
+"#-#-#-#-#  catalog.po (wpmu-dev-dashboard)  #-#-#-#-#\n"
+"معلومات عنا"
+
+msgid "Contacts"
+msgstr "اتصل بنا"
+
+msgid "Order Tracking"
+msgstr "متابعة الطلب"
+
+msgid "Privacy Policy"
+msgstr "سياسة الخصوصية"
+
+msgid "Terms and Conditions"
+msgstr "الشروط والأحكام"
+
+msgid "Cart"
+msgstr "عربة التسوق"
+
+msgid "Search"
+msgstr "بحث"
+
+msgid "Please check the form carefully for errors."
+msgstr "يرجى التحقق من النموذج بعناية بحثًا عن الأخطاء."
+
+msgid "Mobile App Builder"
+msgstr "منشئ تطبيقات الجوال"
+
+msgid "General Settings"
+msgstr "الاعدادات العامة"
+
+msgid "Push Notification Settings"
+msgstr "اضغط على ضبط الاشعارات"
+
+msgid "Push Notification History"
+msgstr "سجل إعلام الدفع"
+
+msgid "Slideshow Settings"
+msgstr "إعدادات عرض الشرائح"
+
+msgid "Banners Settings"
+msgstr "إعدادات الشعارات"
+
+msgid "Payment Methods"
+msgstr "طرق الدفع"
+
+msgid "Featured"
+msgstr "مميز"
+
+msgid "Specials"
+msgstr "العروض الخاصة"
+
+msgid "Best Sellers"
+msgstr "أفضل البائعين"
+
+msgid "Latest"
+msgstr "آخر"
+
+msgid "Information Pages"
+msgstr "صفحات المعلومات"
+
+msgid "Google Login Settings"
+msgstr "إعدادات تسجيل الدخول إلى Google"
+
+msgid "FaceBook Login Settings"
+msgstr "إعدادات تسجيل الدخول إلى FaceBook"
+
+msgid "Enable/Disable"
+msgstr "مفعل وغير مفعل"
+
+msgid "This setting will enable/disable entire mobile app functionality."
+msgstr "سيؤدي هذا الإعداد إلى تمكين / تعطيل وظائف تطبيقات الجوال بالكامل."
+
+msgid "Enable Request Log Reporting"
+msgstr "تمكين طلب تقرير سجل"
+
+msgid ""
+"This setting will enable/disable error log reporting for every request to "
+"Web Services of the module."
+msgstr ""
+"سيؤدي هذا الإعداد إلى تمكين / تعطيل الإبلاغ عن سجل الأخطاء لكل طلب إلى خدمات "
+"الويب للوحدة النمطية."
+
+msgid "Enable Live Chat Support"
+msgstr "تفعيل دعم الدردشة الحية"
+
+msgid ""
+"This setting will enable/disable live chat support option in mobile app."
+msgstr ""
+"سيؤدي هذا الإعداد إلى تمكين / تعطيل خيار دعم الدردشة المباشرة في تطبيق "
+"الجوال."
+
+msgid "Live Chat API Key"
+msgstr "مفتاح واجهة برمجة تطبيقات الدردشة الحية"
+
+msgid "Enter API Key."
+msgstr "أدخل مفتاح API."
+
+msgid "Custom CSS"
+msgstr "لغة تنسيق ويب حسب الطلب"
+
+msgid "Add custom CSS. Please do not add style tags."
+msgstr "أضف CSS مخصص. الرجاء عدم إضافة علامات النمط."
+
+msgid "Category Image Width"
+msgstr "عرض صورة الفئة"
+
+msgid "Value must be between 1 and 999."
+msgstr "يجب أن تتراوح القيمة بين 1 و 999."
+
+msgid "Category Image Height"
+msgstr "ارتفاع صورة الفئة"
+
+msgid "Product Image Width"
+msgstr "عرض صورة المنتج"
+
+msgid "Product Image Height"
+msgstr "ارتفاع صورة المنتج"
+
+msgid "Start date from which the prodcuts will be considered as New"
+msgstr "تاريخ البدء الذي سيتم اعتبار المنتجات منه جديدة"
+
+msgid "Number of products to be considered as New"
+msgstr "عدد المنتجات التي سيتم اعتبارها جديدة"
+
+msgid "Show Price"
+msgstr "عرض السعر"
+
+msgid "Firebase Server Key"
+msgstr "مفتاح خادم Firebase"
+
+msgid "Enter Server Key of Firebase."
+msgstr "أدخل مفتاح خادم Firebase."
+
+msgid "Order Success Notification"
+msgstr "إخطار نجاح الطلب"
+
+msgid "Status"
+msgstr "الحالة"
+
+msgid ""
+"This setting will enable/disable order success push notification "
+"functionality."
+msgstr "سيؤدي هذا الإعداد إلى تمكين / تعطيل وظيفة إشعار دفع نجاح الطلب."
+
+msgid "Notification Title"
+msgstr "عنوان الإخطار"
+
+msgid "Enter Title for Order Success Notification."
+msgstr "أدخل عنوانًا لإخطار نجاح الطلب."
+
+msgid "Notification Message"
+msgstr "رسالة إخطار"
+
+msgid "Enter message for Order Success Notification."
+msgstr "أدخل رسالة إشعار نجاح الطلب."
+
+msgid "Order Status Update Notification"
+msgstr "إشعار بتحديث حالة الطلب"
+
+msgid ""
+"This setting will enable/disable Order status change push notification "
+"functionality."
+msgstr "سيؤدي هذا الإعداد إلى تمكين / تعطيل وظيفة إعلام دفع تغيير حالة الطلب."
+
+msgid ""
+"Enter title for Order status change Notification. You can use {{STATUS}} "
+"placeholder to use status value."
+msgstr ""
+"أدخل العنوان لإعلام تغيير حالة الطلب. يمكنك استخدام عنصر نائب {{STATUS}} "
+"لاستخدام قيمة الحالة."
+
+msgid ""
+"Enter message for Status Change Notification. You can use {{STATUS}} "
+"placeholder to use status value."
+msgstr ""
+"أدخل رسالة لإعلام تغيير الحالة. يمكنك استخدام عنصر نائب {{STATUS}} لاستخدام "
+"قيمة الحالة."
+
+msgid "Abandoned Cart Notification"
+msgstr "إشعار عربة التسوق"
+
+msgid ""
+"This setting will enable/disable abandoned cart push notification "
+"functionality."
+msgstr ""
+"سيؤدي هذا الإعداد إلى تمكين / تعطيل وظيفة إشعار دفع عربة التسوق المهجورة."
+
+msgid "Enter title for Abandoned Cart Notification."
+msgstr "أدخل عنوانًا لإعلام عربة التسوق المهجورة."
+
+msgid "Enter message for Abandoend Cart Notification."
+msgstr "أدخل رسالة لإشعار عربة Abandoend."
+
+msgid "Time interval to check Abandoned Cart"
+msgstr "الفاصل الزمني للتحقق من عربة التسوق المهجورة"
+
+msgid "In Hours"
+msgstr "في ساعات"
+
+msgid "Send Push Notification"
+msgstr "إرسال إشعار دفع"
+
+msgid "Send Notification"
+msgstr "إرسال إشعار"
+
+msgid "Close"
+msgstr "إغلاق"
+
+msgid "Title"
+msgstr "عنوان"
+
+msgid "Message"
+msgstr "رسالة"
+
+msgid "Image"
+msgstr "صورة"
+
+msgid "Redirect Activity"
+msgstr "إعادة توجيه"
+
+msgid "Home"
+msgstr "الصفحة الرئيسية"
+
+msgid "Category"
+msgstr "الفئة"
+
+msgid "Product"
+msgstr "المنتج"
+
+msgid "Notification ID"
+msgstr "معرف الاشعارات"
+
+msgid "Sent On"
+msgstr "أرسلت في"
+
+msgid "Details"
+msgstr "تفاصيل"
+
+msgid "View Details"
+msgstr "عرض التفاصيل"
+
+msgid "Hide Details"
+msgstr "أخف التفاصيل"
+
+msgid "No History Found."
+msgstr "لم يتم العثور على بيانات."
+
+msgid "Slideshow Name"
+msgstr "اسم عرض الشرائح"
+
+msgid "Limit"
+msgstr "حد"
+
+msgid "Maximum limit is 5."
+msgstr "الحد الأقصى هو 5."
+
+msgid ""
+"Value must be between 600 and 999. Width and Height should be in ratio 3:1 "
+"for better results."
+msgstr ""
+"يجب أن تتراوح القيمة بين 600 و 999. يجب أن يكون العرض والارتفاع بنسبة 3: 1 "
+"للحصول على نتائج أفضل."
+
+msgid ""
+"Value must be between 200 and 999. Width and Height should be in ratio 3:1 "
+"for better results."
+msgstr ""
+"يجب أن تتراوح القيمة بين 200 و 999. يجب أن يكون العرض والارتفاع بنسبة 3: 1 "
+"للحصول على نتائج أفضل."
+
+msgid "Slideshow Title"
+msgstr "عنوان عرض الشرائح"
+
+msgid "Link Type"
+msgstr "نوع الارتباط"
+
+msgid "Link To"
+msgstr "رابط ل"
+
+msgid "Slideshow Image"
+msgstr "صورة عرض الشرائح"
+
+msgid "Sort Order"
+msgstr "ترتيب الطلب"
+
+msgid "Action"
+msgstr "عمل"
+
+msgid "Select Link Type"
+msgstr "حدد نوع الارتباط"
+
+msgid "Select Link To"
+msgstr "حدد ارتباط بـ"
+
+msgid "Banner Name"
+msgstr "اسم البانر"
+
+msgid "Image Width"
+msgstr "عرض الصورة"
+
+msgid "Image Height"
+msgstr "ارتفاع الصورة"
+
+msgid "Banner Title"
+msgstr "عنوان البانر"
+
+msgid "Banner Image"
+msgstr "صورة بانر"
+
+msgid "PayPal"
+msgstr "باي بال"
+
+msgid "This setting will enable/disable paypal on App."
+msgstr "سيؤدي هذا الإعداد إلى تمكين / تعطيل paypal على التطبيق."
+
+msgid "Payment Method Name"
+msgstr "اسم طريقة الدفع"
+
+msgid "Enter Payment Method Name to be displayed on App."
+msgstr "أدخل اسم طريقة الدفع ليتم عرضها في التطبيق."
+
+msgid "Payment Method Code"
+msgstr "كود طريقة الدفع"
+
+msgid "Enter Payment Method Code to be displayed on App."
+msgstr "أدخل رمز طريقة الدفع ليتم عرضه على التطبيق."
+
+msgid "Select Mode"
+msgstr "حدد الوضع"
+
+msgid "Live"
+msgstr "حي"
+
+msgid "Sandbox"
+msgstr "صندوق الرمل"
+
+msgid "Client ID"
+msgstr "معرف العميل"
+
+msgid "Cash On Delivery"
+msgstr "الدفع عند الاستلام"
+
+msgid "Cash On delivery"
+msgstr "الدفع عند الاستلام"
+
+msgid "This setting will enable/disable Cash On Delivery on App."
+msgstr "سيؤدي هذا الإعداد إلى تمكين / تعطيل الدفع عند التسليم في التطبيق."
+
+msgid "Maximum limit is 40."
+msgstr "الحد الأقصى هو 40."
+
+msgid "Add New Page"
+msgstr "أضف صفحة جديدة"
+
+msgid "Page Title"
+msgstr "عنوان الصفحة"
+
+msgid "Link To Information Page"
+msgstr "ارتباط إلى صفحة المعلومات"
+
+msgid "No Record Found."
+msgstr "لا يوجد سجلات."
+
+msgid "Google Login"
+msgstr "جوجل تسجيل الدخول"
+
+msgid "Upload Google JSON File"
+msgstr "تحميل ملف Google JSON"
+
+msgid "Invalid File."
+msgstr "ملف غير صالح."
+
+msgid "FaceBook Login"
+msgstr "تسجيل الدخول الى الفيسبوك"
+
+msgid "FaceBook App ID"
+msgstr "اسم المستخم لفيسبوك"
+
+msgid "Invalid FaceBook App ID."
+msgstr "معرف تطبيق فيسبوك غير صالح."
+
+msgid "Validate"
+msgstr "تحقق"
+
+msgid "Please Wait..."
+msgstr "الرجاء الإنتظار..."
+
+msgid "FaceBook App ID validated successfully."
+msgstr "تم التحقق من اسم المستخدم لفيسبوك بنجاح."
+
+msgid "Are you sure to delete ?"
+msgstr "هل انت متأكد من الحذف ؟"
+
+msgid "Only alphabets are allowed."
+msgstr "يسمح فقط الحروف الهجائية."
+
+msgid "Field should be alphanumeric."
+msgstr "يجب أن يكون النص مكون من أرقام وحروف."
+
+msgid "Field cannot be empty."
+msgstr "لا يمكن أن يكون الحقل فارغًا."
+
+msgid "You can enter only numbers."
+msgstr "يمكنك إدخال أرقام فقط."
+
+msgid "Number should be greater than 0."
+msgstr "يجب أن يكون الرقم أكبر من 0."
+
+msgid "Field cannot be greater than # characters."
+msgstr "لا يمكن أن يكون الحقل أكبر من # حرفًا."
+
+msgid "Field cannot be less than # character(s)."
+msgstr "لا يمكن أن يكون الحقل أقل من # حرفًا (أحرف)."
+
+msgid "Please enter Email."
+msgstr "الرجاء إدخال البريد الإلكتروني."
+
+msgid "Please enter a valid Email."
+msgstr "يرجى إدخال البريد الإلكتروني الصحيح."
+
+msgid "Invalid date format."
+msgstr "تنسيق التاريخ غير صالح."
+
+msgid "Number is not in the valid range. It should be between # and !!"
+msgstr "الرقم ليس في النطاق الصالح. يجب أن يكون بين # و !!"
+
+msgid "Phone number is invalid."
+msgstr "رقم الهاتف غير صالح."
+
+msgid "Please enter phone number."
+msgstr "الرجاء إدخال رقم الهاتف."
+
+msgid "Phone number cannot be less than # characters."
+msgstr "لا يمكن أن يكون رقم الهاتف أقل من # حرفًا."
+
+msgid "Phone number cannot be greater than # characters."
+msgstr "لا يمكن أن يكون رقم الهاتف أكبر من # حرفًا."
+
+msgid "Invalid URL format."
+msgstr "تنسيق URL غير صالح."
+
+msgid "Please enter URL."
+msgstr "الرجاء إدخال URL."
+
+msgid "Field should be numeric."
+msgstr "يجب أن يكون النص مكون من أرقام."
+
+msgid "Field can have only upto two decimal values."
+msgstr "يمكن أن يحتوي الحقل على قيمتين عشريتين فقط."
+
+msgid "Email cannot be greater than # characters."
+msgstr "لا يمكن أن يكون البريد الإلكتروني أكبر من # حرفًا."
+
+msgid "Zip should not have special characters."
+msgstr "يجب ألا يحتوي الرمز البريدي على أحرف خاصة."
+
+msgid "SKU should not have special characters."
+msgstr "يجب ألا يحتوي SKU على أحرف خاصة."
+
+msgid "URL cannot be greater than # characters."
+msgstr "لا يمكن أن يكون عنوان URL أكبر من # حرفًا."
+
+msgid "Percentage should be in number."
+msgstr "يجب أن تكون النسبة المئوية في العدد."
+
+msgid "Percentage should be between 0 and 100."
+msgstr "يجب أن تكون النسبة المئوية بين 0 و 100."
+
+msgid "Field should be positive."
+msgstr "يجب أن يكون المنص رقم موجب."
+
+msgid "Color could not be greater than # characters."
+msgstr "لا يمكن أن يكون اللون أكبر من # حرفًا."
+
+msgid "Color is not valid."
+msgstr "اللون غير صالح."
+
+msgid "Special characters are not allowed."
+msgstr "يمنع استعمال الرموز."
+
+msgid "Script tags are not allowed."
+msgstr "علامات البرنامج النصي غير مسموح بها."
+
+msgid "Style tags are not allowed."
+msgstr "علامات الأنماط غير مسموح بها."
+
+msgid "Iframe tags are not allowed."
+msgstr "علامات Iframe غير مسموح بها."
+
+msgid "Uploaded file is not an image"
+msgstr "الملف الذي تم تحميله ليس صورة"
+
+msgid "Uploaded file size must be less than #."
+msgstr "يجب أن يكون حجم الملف الذي تم تحميله أقل من #."
+
+msgid "Field should not contain HTML tags."
+msgstr "يجب ألا يحتوي الحقل على علامات HTML."
+
+msgid "You can enter only positive numbers."
+msgstr "يمكنك إدخال أرقام موجبة فقط."
+
+msgid "Invalid comma (#) separated values."
+msgstr "قيم مفصولة بفاصلة (#) غير صالحة."
+
+msgid ""
+"Warning: You do not have permission to access the module, Kindly install "
+"module !!"
+msgstr "تحذير: ليس لديك إذن للوصول إلى الوحدة ، يرجى تثبيت الوحدة !!"
+
+msgid "Warning: Invalid API Version !!"
+msgstr "تحذير: إصدار API غير صالح !!"
+
+msgid "Prices"
+msgstr "الأسعار"
+
+msgid "Cart Information could not be loaded."
+msgstr "تعذر تحميل معلومات عربة التسوق."
+
+msgid "Quantity"
+msgstr "الكمية"
+
+msgid "Attributes"
+msgstr "السمات"
+
+msgid "Subtotal"
+msgstr "المجموع"
+
+msgid "Total"
+msgstr "مجموع"
+
+msgid "Cart Information loaded successfully."
+msgstr "تم تحميل معلومات عربة التسوق بنجاح."
+
+msgid "Customer does not exist."
+msgstr "الزبون غير موجود."
+
+msgid "Invalid Email Address."
+msgstr "عنوان البريد الإلكتروني غير صالح."
+
+msgid "SKU"
+msgstr "رمز المنتج"
+
+msgid "Discount"
+msgstr "خصم"
+
+msgid "Tax"
+msgstr "ضريبة"
+
+msgid "Shipping"
+msgstr "الشحن"
+
+msgid "Invalid Email Address or Order ID."
+msgstr "عنوان البريد الإلكتروني أو معرف الطلب غير صالح."
+
+msgid "Invalid Order ID."
+msgstr "معرف الطلب غير صالح."
+
+msgid "Order could not be created."
+msgstr "لا يمكن إنشاء الطلب."
+
+msgid "Order created by this cart."
+msgstr "الطلب تم إنشاؤه بواسطة هذه العربة."
+
+msgid "Product successfully added into the cart."
+msgstr "تم إضافة المنتجات إلى عربة التسوق بنجاح."
+
+msgid "Product cannot be added into the cart."
+msgstr "لا يمكن إضافة المنتج إلى عربة التسوق."
+
+msgid "First Name"
+msgstr "الإسم الأول"
+
+msgid "Last Name"
+msgstr "الإسم الأخير"
+
+msgid "Company"
+msgstr "الشركة"
+
+msgid "Address Line 1"
+msgstr "العنوان"
+
+msgid "Address Line 2"
+msgstr "العنوان 2"
+
+msgid "Town/City"
+msgstr "المنطقة / المدينة"
+
+msgid "State/County"
+msgstr "ولاية / محافظة"
+
+msgid "Postcode/Zip"
+msgstr "الرمز البريدي"
+
+msgid "Country"
+msgstr "الدولة"
+
+msgid "Phone"
+msgstr "هاتف"
+
+msgid "Shipping address has been added successfully."
+msgstr "تمت إضافة عنوان الشحن بنجاح."
+
+msgid "Shipping address could not be added successfully."
+msgstr "لا يمكن إضافة عنوان الشحن بنجاح."
+
+msgid "Shipping address has been updated successfully."
+msgstr "تم تحديث عنوان الشحن بنجاح."
+
+msgid "Shipping address could not be updated successfully."
+msgstr "لا يمكن تحديث عنوان الشحن."
+
+msgid "User login successfully."
+msgstr "تسجيل دخول المستخدم بنجاح."
+
+msgid "User login failed."
+msgstr "فشل تسجيل دخول المستخدم."
+
+msgid "Customer registration failed."
+msgstr "فشل تسجيل العميل."
+
+msgid "Customer successfully created."
+msgstr "تم إنشاء العميل بنجاح."
+
+msgid "Enter a username or email address."
+msgstr "أدخل اسم مستخدم أو عنوان بريد إلكتروني."
+
+msgid "Invalid username or email."
+msgstr "اسم مستخدم أو بريد إلكتروني غير صالح."
+
+msgid "Password reset is not allowed for this user."
+msgstr "إعادة تعيين كلمة المرور غير مسموح به لهذا المستخدم."
+
+msgid "Coupon could not be applied."
+msgstr "لا يمكن تطبيق هذه القسيمة."
+
+msgid "Coupon applied successfully."
+msgstr "تم تطبيق قسيمة الخصم بنجاح."
+
+msgid "Coupon could not be removed."
+msgstr "لا يمكن إزالة القسيمة."
+
+msgid "Coupon removed successfully."
+msgstr "تمت إزالة القسيمة بنجاح."
+
+msgid "Product could not be removed."
+msgstr "لا يمكن إزالة المنتج."
+
+msgid "Product successfully removed."
+msgstr "تمت إزالة المنتج بنجاح."
+
+msgid "Product could not be updated."
+msgstr "لا يمكن تحديث المنتج."
+
+msgid "Product successfully updated."
+msgstr "تم تحديث المنتج بنجاح."
+
+msgid "Invalid email or wrong password."
+msgstr "بريد إلكتروني غير صحيح أو كلمة مرور خاطئة."
+
+msgid "Customer profile updated successfully."
+msgstr "تم تحديث ملف تعريف العميل بنجاح."
+
+msgid "Cart id or FCM id not found"
+msgstr "لم يتم العثور على معرف سلة التسوق أو معرف FCM"
+
+msgid "Categories"
+msgstr "التصنيفات"
+
+msgid "Login"
+msgstr "تسجيل الدخول"
+
+msgid "Logout"
+msgstr "تسجيل خروج"
+
+msgid "Login/Sign up"
+msgstr "تسجيل دخول/ تسجيل جديد"
+
+msgid "My Account"
+msgstr "حسابي"
+
+msgid "Contact Us"
+msgstr "اتصل بنا"
+
+msgid "Add to Wishlist"
+msgstr "أضف إلى المفضلة"
+
+msgid "Add to Cart"
+msgstr "أضف إلى السلة"
+
+msgid "off"
+msgstr "إيقاف"
+
+msgid "All"
+msgstr "الكل"
+
+msgid "Language(s)"
+msgstr "اللغات)"
+
+msgid "Sort"
+msgstr "ترتيب"
+
+msgid "Filter"
+msgstr "فيلتر تصفية"
+
+msgid "Select Sort Order"
+msgstr "اختيار نوع الترتيب"
+
+msgid "Price: Low to High"
+msgstr "السعر من الارخص للاعلى"
+
+msgid "Price: High to Low"
+msgstr "السعر من الاعلى الى الأدنى"
+
+msgid "Select"
+msgstr "تحديد"
+
+msgid "In Stock"
+msgstr "متوفر"
+
+msgid "Out of Stock"
+msgstr "غير متوفر حاليا"
+
+msgid "Product Info and Care"
+msgstr "معلومات المنتج والعناية"
+
+msgid "Product Customization"
+msgstr "اختيار خصائص المنتج"
+
+msgid "Accessories"
+msgstr "اكسسوارات"
+
+msgid "View Less"
+msgstr "عرض أقل"
+
+msgid "View More"
+msgstr "عرض المزيد"
+
+msgid "Please provide details"
+msgstr "يرجى تقديم تفاصيل"
+
+msgid "Shopping Bag"
+msgstr "عربة التسوق"
+
+msgid "Apply Voucher"
+msgstr "أدخل قسيمة (كوبون) الخصم"
+
+msgid "Enter voucher code"
+msgstr "أدخل رمز قسيمة الخصم"
+
+msgid "Apply"
+msgstr "تطبيق"
+
+msgid "Gift Wrap"
+msgstr "تغليف الهدايا"
+
+msgid "Enter your message"
+msgstr "قم بكتابة رسالتك"
+
+msgid "Send available products first"
+msgstr "نرسل المنتجات المتاحة أولا"
+
+msgid "Continue Shopping"
+msgstr "مواصلة التسوق"
+
+msgid "Continue To Checkout"
+msgstr "أكمل عملية الشراء"
+
+msgid "Update Quantity"
+msgstr "تحديث الكمية"
+
+msgid "Enter quantity (0-10)"
+msgstr "أدخل الكمية (0-10)"
+
+msgid "Your shopping cart is empty!"
+msgstr "عربة التسوق الخاصة بك فارغة!"
+
+msgid "Go to Home Page"
+msgstr "اذهب إلى الصفحة الرئيسية"
+
+msgid "Review Your Order"
+msgstr "مراجعة الطلب"
+
+msgid "Shipping Details"
+msgstr "تفاصيل الشحن"
+
+msgid "Order Summary"
+msgstr "ملخص الطلب"
+
+msgid "Shipping Methods"
+msgstr "طرق الشحن"
+
+msgid "Order Comment"
+msgstr "ملاحظات على الطلب"
+
+msgid "Payment Summary"
+msgstr "ملخص الدفع"
+
+msgid "Proceed To Payment"
+msgstr "الإستمرار في الدفع"
+
+msgid "Make Payment"
+msgstr "تحديد طريقة الدفع"
+
+msgid "Congratulations"
+msgstr "تهانينا"
+
+msgid "Shipping Address(s)"
+msgstr "عنوان (عناوين) الشحن"
+
+msgid "Order Detail"
+msgstr "تفاصيل الطلب"
+
+msgid "Update Personal Details"
+msgstr "تحديث البيانات الشخصية"
+
+msgid "Update Password"
+msgstr "تحديث كلمة المرور"
+
+msgid "Current Password"
+msgstr "كلمة المرور الحالية"
+
+msgid "New Password"
+msgstr "كلمة المرور جديدة"
+
+msgid "Confirm Password"
+msgstr "تأكيد كلمة المرور"
+
+msgid "Cancel"
+msgstr "إلغاء"
+
+msgid "Save"
+msgstr "حفظ"
+
+msgid "Order Reference"
+msgstr "رقم الطلب"
+
+msgid "Placed On"
+msgstr "تاريخ الطلب"
+
+msgid "Reorder"
+msgstr "إعادة الطلب"
+
+msgid "Order Details"
+msgstr "تفاصيل الطلب"
+
+msgid "Status History"
+msgstr "محفوظات الحالة"
+
+msgid "Shipping Address"
+msgstr "عنوان الشحن"
+
+msgid "Shipping Method"
+msgstr "طريقة الشحن"
+
+msgid "Payment Method"
+msgstr "طريقة الدفع او السداد"
+
+msgid "Gift Wrapping"
+msgstr "تغليف الهدايا"
+
+msgid "No shipping address available!"
+msgstr "لا يوجد عنوان شحن متاح!"
+
+msgid "No order details available!"
+msgstr "لا توجد تفاصيل متاحة للطلب!"
+
+msgid "Sign Up"
+msgstr "تسجيل مستخدم جديد"
+
+msgid "Continue as Guest"
+msgstr "الإستمرار كزائر"
+
+msgid "Email"
+msgstr "البريد الإلكتروني"
+
+msgid "Password"
+msgstr "كلمة المرور"
+
+msgid "Forgot Password"
+msgstr "هل نسيت كلمة المرور"
+
+msgid "You can login with social account."
+msgstr "يمكنك تسجيل الدخول باستخدام حساب التواصل الاجتماعي."
+
+msgid "Login with Google+"
+msgstr "تسجيل الدخول باستخدام جوجل"
+
+msgid "Login with Facebook"
+msgstr "تسجيل الدخول باستخدام الفيسبوك"
+
+msgid "Signup with Google+"
+msgstr "اشترك عبر حساب جوجل"
+
+msgid "Signup with Facebook"
+msgstr "اشترك عبر حساب فايسبوك"
+
+msgid "Please enter valid email!"
+msgstr "الرجاء إدخال بريد إلكتروني صحيح!"
+
+msgid "Please enter email!"
+msgstr "الرجاء إدخال البريد الإلكتروني!"
+
+msgid "Please enter password!"
+msgstr "الرجاء إدخال كلمة المرور!"
+
+msgid "Please enter password having characters more that or equal to 3!"
+msgstr "الرجاء إدخال كلمة مرور تتكون من 3 خانات أو أكثر!"
+
+msgid "Date of Birth"
+msgstr "تاريخ الميلاد"
+
+msgid "Personal Details"
+msgstr "التفاصيل الشخصية"
+
+msgid "Password and confirm password do not match!"
+msgstr "كلمة المرور وتأكيد كلمة المرور غير متطابقين!"
+
+msgid "Sold By:"
+msgstr "إسم البائع:"
+
+msgid "Write Review"
+msgstr "أكتب مراجعة"
+
+msgid "View Review(s)"
+msgstr "عرض التعليقات"
+
+msgid "View Seller Product(s)"
+msgstr "عرض منتج (منتجات) البائع"
+
+msgid "Please wait"
+msgstr "الرجاء الإنتظار"
+
+msgid "Loading data..."
+msgstr "جاري التحميل..."
+
+msgid "Something went wrong. Please try again."
+msgstr "هناك خطأ ما. حاول مرة اخرى."
+
+msgid "No internet connection found."
+msgstr "لم يتم العثور على اتصال بالإنترنت."
+
+msgid "No Internet"
+msgstr "لا يوجد انترنت"
+
+msgid ""
+"Request cannot be process. This might be because of slow internet connection."
+msgstr "لا يمكن معالجة الطلب. قد يكون هذا بسبب بطء الاتصال بالإنترنت."
+
+msgid ""
+"Your order has been placed successfully. You will receive an email regarding "
+"the same."
+msgstr "تم وضع طلبك بنجاح. سوف تتلقى رسالة بريد إلكتروني بخصوص ذلك."
+
+msgid "You can look for product(s) by their category."
+msgstr "يمكنك البحث عن المنتج (المنتجات) حسب فئتها."
+
+msgid "You can search any product in store by text or voice!"
+msgstr "يمكنك البحث عن أي منتج في المتجر بالنص أو الصوت!"
+
+msgid "You can view shopping cart with quantity!"
+msgstr "يمكنك عرض عربة التسوق بالكمية!"
+
+msgid "You are logout successfully!"
+msgstr "لقد تم تسجيل الخروج بنجاح!"
+
+msgid "You can view product in list or grid mode!"
+msgstr "يمكنك عرض المنتج في وضع القائمة أو الشبكة!"
+
+msgid "You can sort product by their price!"
+msgstr "يمكنك فرز المنتج حسب سعره!"
+
+msgid "You can filter product(s) as per your need!"
+msgstr "يمكنك تصفية المنتج (المنتجات) حسب حاجتك!"
+
+msgid "Next"
+msgstr "إضغط هنا للمتابعة"
+
+msgid "Okay"
+msgstr "حسنا"
+
+msgid "Required"
+msgstr "مطلوب"
+
+msgid "Please select rating"
+msgstr "الرجاء تحديد التقييم"
+
+msgid ""
+"You can add product to shopping cart by simply clicking on the button Add to "
+"Cart!"
+msgstr ""
+"يمكنك إضافة منتج إلى عربة التسوق بمجرد النقر فوق الزر إضافة إلى عربة التسوق!"
+
+msgid ""
+"You can add product to wishlist by simply clicking on the button Add to "
+"Wishlist!"
+msgstr ""
+"يمكنك إضافة منتج إلى قائمة الرغبات بمجرد النقر على الزر \"إضافة إلى قائمة "
+"الرغبات\"!"
+
+msgid "Product price has been updated!"
+msgstr "تم تحديث سعر المنتج!"
+
+msgid "This product is not available for order!"
+msgstr "هذا المنتج غير متوفر للطلب!"
+
+msgid ""
+"This combination does not exist for this product. Please select another "
+"combination."
+msgstr "هذا المزيج غير موجود لهذا المنتج. الرجاء تحديد مجموعة أخرى."
+
+msgid "This product is not available in the desired quantity or not in stock!"
+msgstr "هذا المنتج غير متوفر بالكمية المطلوبة أو ليس في المخزون!"
+
+msgid ""
+"Some of the products in the cart are not available in the desired quantity "
+"or not in stock. Please remove such product(s) from cart!"
+msgstr ""
+"بعض المنتجات في عربة التسوق غير متوفرة بالكمية المطلوبة أو غير متوفرة. يرجى "
+"إزالة هذا المنتج (المنتجات) من عربة التسوق!"
+
+msgid ""
+"You can checkout products in shopping cart by simply clicking on the button "
+"Continue to Checkout."
+msgstr ""
+"يمكنك التحقق من المنتجات في عربة التسوق ببساطة عن طريق النقر فوق الزر متابعة "
+"إلى الخروج."
+
+msgid "You can apply voucher to shopping cart!"
+msgstr "يمكنك تطبيق القسيمة على عربة التسوق!"
+
+msgid "You can update quantity of product or remove it from shopping cart!"
+msgstr "يمكنك تحديث كمية المنتج أو إزالته من عربة التسوق!"
+
+msgid "You can view product details by clicking on product image!"
+msgstr "يمكنك عرض تفاصيل المنتج من خلال النقر على صورة المنتج!"
+
+msgid "Success!"
+msgstr "نجاح!"
+
+msgid "Failure!"
+msgstr "بالفشل!"
+
+msgid "Please enter quantity"
+msgstr "الرجاء إدخال الكمية"
+
+msgid "Remove"
+msgstr "إزالة"
+
+msgid "Customization Details"
+msgstr "تفاصيل التخصيص"
+
+msgid "You can add new shipping address by clicking on the button!"
+msgstr "يمكنك إضافة عنوان شحن جديد بالضغط على الزر!"
+
+msgid "You can update shipping address!"
+msgstr "يمكنك تحديث عنوان الشحن!"
+
+msgid "You can select any shipping address by simply clicking on it!"
+msgstr "يمكنك تحديد أي عنوان شحن بمجرد النقر فوقه!"
+
+msgid "*Please select shipping address to review your order."
+msgstr "* يرجى تحديد عنوان الشحن لمراجعة طلبك."
+
+msgid "No products available!"
+msgstr "لا توجد منتجات متاحة!"
+
+msgid "No comment(s) available!"
+msgstr "لا يوجد تعليق (تعليقات) متاح!"
+
+msgid "You can reset your password by clicking `Forget Password`"
+msgstr ""
+"يمكنك إعادة تعيين كلمة المرور الخاصة بك عن طريق النقر فوق \"نسيت كلمة "
+"المرور\""
+
+msgid "You can login into the store from here!"
+msgstr "يمكنك تسجيل الدخول إلى المتجر من هنا!"
+
+msgid "You can also login into the store from your Facebook account!"
+msgstr "يمكنك أيضًا تسجيل الدخول إلى المتجر من حسابك على فيسبوك!"
+
+msgid "You can also login into the store from your Google account!"
+msgstr "يمكنك أيضًا تسجيل الدخول إلى المتجر من حساب Google الخاص بك!"
+
+msgid ""
+"You can update your profile details, shipping details or view your order "
+"details from here!"
+msgstr ""
+"يمكنك تحديث تفاصيل ملفك الشخصي أو تفاصيل الشحن أو عرض تفاصيل طلبك من هنا!"
+
+msgid "Currency(s)"
+msgstr "العملة (العملات)"
+
+msgid "Address(s)"
+msgstr "العنوان (العناوين)"
+
+msgid "Billing Address(s)"
+msgstr "عنوان (عناوين) الفواتير"
+
+msgid "Update Address"
+msgstr "تحديث العنوان"
+
+msgid "View Your Store"
+msgstr "عرض متجرك"
+
+msgid "Billing Address"
+msgstr "عنوان وصول الفواتير"
+
+msgid "Billing Details"
+msgstr "تفاصيل الفاتورة"
+
+msgid "Download"
+msgstr "تحميل"
+
+msgid "Minimal Quantity"
+msgstr "كمية ضئيلة"
+
+msgid "Pack Content"
+msgstr "حزمة المحتوى"
+
+msgid "Seller Details"
+msgstr "تفاصيل البائع"
+
+msgid "Submit"
+msgstr "إرسال"
+
+msgid ""
+"Enter the e-mail address associated with your account.Click submit to have "
+"your password e-mailed to you."
+msgstr ""
+"أدخل عنوان البريد الإلكتروني المرتبط بحسابك ، انقر فوق إرسال لإرسال كلمة "
+"المرور إليك بالبريد الإلكتروني."
+
+msgid "Enter your email"
+msgstr "أدخل بريدك الإلكتروني"
+
+msgid "Reset Password"
+msgstr "إعادة تعيين كلمة المرور"
+
+msgid "You can view your selected filter result by clicking on this image!"
+msgstr "يمكنك عرض نتيجة التصفية المحددة من خلال النقر على هذه الصورة!"
+
+msgid "You can clear the applied filter by clicking on this image!"
+msgstr "يمكنك مسح الفلتر المطبق بالضغط على هذه الصورة!"
+
+msgid "No filters"
+msgstr "لا يوجد فرز"
+
+msgid "*You must register at least one phone number"
+msgstr "* يجب عليك تسجيل رقم هاتف واحد على الأقل"
+
+msgid "Refresh"
+msgstr "تحديث"
+
+msgid "Internet Connection Failed!"
+msgstr "فشل الاتصال بالإنترنت!"
+
+msgid ""
+"There might be some problem with your internet connection. Please check."
+msgstr "قد تكون هناك بعض المشاكل في اتصالك بالإنترنت. يرجى المراجعة."
+
+msgid "Cancel transaction"
+msgstr "إإلغاء العملية"
+
+msgid ""
+"You are in the middle of your payment transaction process.Do you really want "
+"cancel your transaction?"
+msgstr "أنت في منتصف عملية الدفع الخاصة بك ، هل تريد حقًا إلغاء معاملتك؟"
+
+msgid "Yes"
+msgstr "نعم"
+
+msgid "No"
+msgstr "لا"
+
+msgid "Enter your comment"
+msgstr "أدخل تعليقك"
+
+msgid ""
+"For some product(s),shipping methods are not available. Please remove such "
+"product(s) from cart and try again."
+msgstr ""
+"بالنسبة لبعض المنتجات ، لا تتوفر طرق الشحن. يرجى إزالة هذا المنتج (المنتجات) "
+"من عربة التسوق والمحاولة مرة أخرى."
+
+msgid "Same as Shipping Address"
+msgstr "نفس عنوان الشحن"
+
+msgid "Share Log"
+msgstr "سجل المشاركة"
+
+msgid "PayPal Payment"
+msgstr "الدفع باي بال"
+
+msgid ""
+"Your order could not be processed. Kindly contact support for any queries"
+msgstr "لا يمكن معالجة طلبك. يرجى الاتصال بالدعم لأية استفسارات"
+
+msgid "Choose Payment Method"
+msgstr "اختر وسيلة الدفع"
+
+msgid "No Payment Method(s) Found!"
+msgstr "لم يتم العثور على طريقة (طرق) دفع!"
+
+msgid "There are no payment method currently."
+msgstr "لا توجد طريقة دفع حاليا."
+
+msgid ""
+"You would not be able to make payment as this mobile App is setup for demo "
+"purpose."
+msgstr "لن تتمكن من الدفع لأن تطبيق الهاتف المحمول هذا معد لغرض العرض."
+
+msgid "You can make payment after selecting any payment method!"
+msgstr "يمكنك إجراء الدفع بعد اختيار أي طريقة دفع!"
+
+msgid "Order Total Price"
+msgstr "السعر الإجمالي"
+
+msgid "User cancelled the payment"
+msgstr "ألغى المستخدم الدفع"
+
+msgid "Invalid payment. Kindly try again"
+msgstr "طريقة دفع غير مسموحه. يرجى المحاولة مرة أخرى"
+
+msgid "Share"
+msgstr "شارك"
+
+msgid "Terms and Conditions of Use"
+msgstr "شزوط واشتراطات الاستخدام"
+
+msgid "Wishlist"
+msgstr "قائمة المفضلة"
+
+msgid "Remove from Wishlist"
+msgstr "إزالة من قائمة الرغبات"
+
+msgid "State not required for selected country"
+msgstr "الدولة غير مطلوبة للبلد المحدد"
+
+msgid "Some error occurred while processing the payment. Kindly try again"
+msgstr "حدث خطأ ما أثناء معالجة الدفع. يرجى المحاولة مرة أخرى"
+
+msgid ""
+"You might have entered wrong URL or you have not installed our mobile app "
+"builder bodule."
+msgstr ""
+"ربما تكون قد أدخلت عنوان URL خاطئًا أو أنك لم تقم بتثبيت مجموعة منشئ تطبيقات "
+"الأجهزة المحمولة."
+
+msgid "Login Failed!"
+msgstr "فشل تسجيل الدخول!"
+
+msgid "Install Module"
+msgstr "تثبيت الوحدة"
+
+msgid "Choose Your App Theme"
+msgstr "اختر موضوع التطبيق الخاص بك"
+
+msgid "No data found"
+msgstr "لاتوجد بيانات"
+
+msgid "Please enter store URL"
+msgstr "الرجاء إدخال عنوان URL المتجر"
+
+msgid "Please fill all the required fields."
+msgstr "يرجى ملء جميع الخانات المطلوبة."
+
+msgid "Please fill the details!"
+msgstr "يرجى إدخال التفاصيل!"
+
+msgid "Your Name*"
+msgstr "اسمك*"
+
+msgid "Email*"
+msgstr "البريد الإلكتروني*"
+
+msgid "Your Store Url*"
+msgstr "رابط متجرك *"
+
+msgid "Continue"
+msgstr "استمر"
+
+msgid "Invalid Store URL!"
+msgstr "عنوان URL المتجر غير صالح!"
+
+msgid "Invalid Email!"
+msgstr "بريد إلكتروني خاطئ!"
+
+msgid "Seller Dashboard"
+msgstr "لوحة تحكم البائع"
+
+msgid "Exit Seller Account"
+msgstr "الخروج من حساب البائع"
+
+msgid "Do you really want to exit from your seller account?"
+msgstr "هل تريد حقا الخروج من حساب البائع الخاص بك؟"
+
+msgid "Restricted navigation!"
+msgstr "الملاحة مقيد!"
+
+msgid "You can not visit link outside the seller account."
+msgstr "لا يمكنك زيارة الرابط خارج حساب البائع."
+
+msgid "Register as seller"
+msgstr "سجل كبائع"
+
+msgid "Select language"
+msgstr "اختار اللغة"
+
+msgid "Select font"
+msgstr "حدد الخط"
+
+msgid "Share Feedback"
+msgstr "مشاركة التعليقات"
+
+msgid "Select Theme Color"
+msgstr "حدد لون المظهر"
+
+msgid "Select Button Color"
+msgstr "حدد لون الزر"
+
+msgid "Sellers"
+msgstr "الباعة"
+
+msgid "Seller"
+msgstr "تاجر"
+
+msgid "Shipping Policy"
+msgstr "سياسة الشحن"
+
+msgid "Return Policy"
+msgstr "سياسة الإسترجاع"
+
+msgid "Title *"
+msgstr "عنوان *"
+
+msgid "Comment *"
+msgstr "تعليق *"
+
+msgid "Rating *"
+msgstr "تقييم *"
+
+msgid "Filter Product(s)"
+msgstr "تصفية المنتج (المنتجات)"
+
+msgid "Select Category"
+msgstr "اختر الفئة"
+
+msgid "Select Sort"
+msgstr "حدد فرز"
+
+msgid "Clear"
+msgstr "واضح"
+
+msgid "Posted On:"
+msgstr "نشر على:"
+
+msgid "Commented By:"
+msgstr "التعليق بواسطة:"
+
+msgid "Comment:"
+msgstr "تعليق:"
+
+msgid "Explore the App"
+msgstr "تعرف على التطبيق"
+
+msgid "Nautica WooCoomerce"
+msgstr "أسماك العالم"
+
+msgid "Hello world!"
+msgstr "مرحبا بالعالم!"
+
+msgid "Settings"
+msgstr "الإعدادات"
+
+msgid "Hello blank fragment"
+msgstr "مرحبا جزء فارغ"
+
+msgid "RevealActivity"
+msgstr "RevealActivity"
+
+msgid "SearchResultsActivity"
+msgstr "SearchResultsActivity"
+
+msgid "Checkout"
+msgstr "الدفع"
+
+msgid "Internet Problem"
+msgstr "مشكلة في الانترنت"
+
+msgid "Log In"
+msgstr "تسجيل الدخول"
+
+msgid "Login/Signup"
+msgstr "الدخول التسجيل فى الموقع"
+
+msgid "ActivityFilterCheckBoxSelection"
+msgstr "ActivityFilterCheckBoxSelection"
+
+msgid "Product Image Viewer"
+msgstr "عارض صور المنتج"
+
+msgid "choose country"
+msgstr "اختر الدولة"
+
+msgid "choose state"
+msgstr "اختر المحافظة أو المدينة"
+
+msgid "Add New Shipping Address"
+msgstr "اضف عنوان شحن جديد"
+
+msgid "Seller Comment(s)"
+msgstr "تعليق (تعليقات) البائع"
+
+msgid "Server not found"
+msgstr "لم يتم العثور على الخادم"
+
+msgid "Authorization Error"
+msgstr "خطأ في التفويض"
+
+msgid "Network Connection Error.Please check your internet connection"
+msgstr "خطأ في الاتصال بالشبكة ، يرجى التحقق من اتصالك بالإنترنت"
+
+msgid "Parsing Error in API"
+msgstr "خطأ في التحليل في API"
+
+msgid "Cron Instructions"
+msgstr "تعليمات Cron"
+
+msgid ""
+"Add the cron to your store via control panel/putty to send the push "
+"notifications to your Mobile App users for Abandoned Carts."
+msgstr ""
+"أضف cron إلى متجرك عبر لوحة التحكم / المعجون لإرسال إشعارات الدفع إلى "
+"مستخدمي تطبيق الهاتف المحمول الخاص بك للعربات المهجورة."
+
+msgid "URL to Add to Cron via Control Panel"
+msgstr "URL للإضافة إلى Cron عبر لوحة التحكم"
+
+msgid "Cron setup via SSH"
+msgstr "إعداد Cron عبر SSH"
+
+msgid "Add New"
+msgstr "اضف جديد"
+
+msgid "Sort order cannot be same."
+msgstr "لا يمكن أن يكون ترتيب الفرز هو نفسه."
+
+msgid "Sample Date"
+msgstr "تاريخ العينة"
+
+msgid "Following sample data will be inserted -"
+msgstr "سيتم إدخال بيانات العينة التالية -"
+
+msgid "Plug-in Enabled ?"
+msgstr "هل تم تمكين المكون الإضافي؟"
+
+msgid "Show Price ?"
+msgstr "عرض السعر؟"
+
+msgid "Slideshow Status"
+msgstr "حالة عرض الشرائح"
+
+msgid "Slideshow Limit"
+msgstr "حد عرض الشرائح"
+
+msgid "Slideshow Image Width"
+msgstr "عرض صورة عرض الشرائح"
+
+msgid "Slideshow Image Height"
+msgstr "ارتفاع صورة عرض الشرائح"
+
+msgid "Total Slideshow Images"
+msgstr "مجموع صور عرض الشرائح"
+
+msgid "Banner Status"
+msgstr "حالة البانر"
+
+msgid "Banner Limit"
+msgstr "حد البانر"
+
+msgid "Banner Image Width"
+msgstr "عرض صورة البانر"
+
+msgid "Banner Image Height"
+msgstr "ارتفاع صورة البانر"
+
+msgid "Total Banner Images"
+msgstr "مجموع صور البانر"
+
+msgid "Featured Enabled ?"
+msgstr "المميز ممكن؟"
+
+msgid "Featured Limit"
+msgstr "حد مميز"
+
+msgid "Feature Product Image Width"
+msgstr "عرض صورة المنتج المميز"
+
+msgid "Feature Product Image Height"
+msgstr "ميزة ارتفاع صورة المنتج"
+
+msgid "Special Enabled ?"
+msgstr "ممكن خاص؟"
+
+msgid "Special Limit"
+msgstr "حد خاص"
+
+msgid "Special Product Image Width"
+msgstr "عرض صورة المنتج الخاص"
+
+msgid "Special Product Image Height"
+msgstr "ارتفاع صورة المنتج الخاص"
+
+msgid "Bestsellers Enabled ?"
+msgstr "تمكين الأكثر مبيعًا؟"
+
+msgid "Bestsellers Limit"
+msgstr "حد الأكثر مبيعًا"
+
+msgid "Bestsellers Product Image Width"
+msgstr "عرض صورة المنتج الأكثر مبيعًا"
+
+msgid "Bestsellers Product Image Height"
+msgstr "ارتفاع صورة المنتج الأكثر مبيعًا"
+
+msgid "Latest Enabled ?"
+msgstr "آخر ما تم تمكينه؟"
+
+msgid "Latest Limit"
+msgstr "أحدث حد"
+
+msgid "Latest Product Image Width"
+msgstr "عرض أحدث صورة المنتج"
+
+msgid "Latest Product Image Height"
+msgstr "أحدث ارتفاع صورة المنتج"
+
+msgid "Insert Sample Data"
+msgstr "أدخل بيانات العينة"
+
+msgid "Warning: "
+msgstr "تحذير: "
+
+msgid ""
+"Please ignore, if you have already done this. Otherwise it may lead to "
+"duplicate data or throw errors."
+msgstr ""
+"يرجى تجاهل ، إذا كنت قد فعلت هذا بالفعل. وإلا فقد يؤدي ذلك إلى تكرار "
+"البيانات أو طرح الأخطاء."
+
+msgid "Some error occurred."
+msgstr "حدث خطأ ما."
+
+msgid "New"
+msgstr "جديد"
+
+msgid "Sale"
+msgstr "خصم"
+
+msgid "% off"
+msgstr "٪ خصم"
+
+msgid "Please select shipping method"
+msgstr "الرجاء تحديد طريقة الشحن"
+
+msgid "Whatsapp is not installed on your device"
+msgstr "Whatsapp غير مثبت على جهازك"
+
+msgid ""
+"No account is registered for the biometric authentication in this device. "
+"Please register an account first."
+msgstr ""
+"لم يتم تسجيل أي حساب للمصادقة البيومترية في هذا الجهاز. الرجاء تسجيل حساب "
+"أولا."
+
+msgid "Confirm your fingerprint or face to authenticate."
+msgstr "قم بتأكيد بصمة إصبعك أو وجهك."
+
+msgid "Login with Fingerprint"
+msgstr "تسجيل الدخول باستخدام بصمة الإصبع"
+
+msgid "Register for Fingerprint Login"
+msgstr "التسجيل لتسجيل الدخول ببصمة الإصبع"
+
+msgid "Biometric authentication is not available for this device."
+msgstr "المصادقة البيومترية غير متاحة لهذا الجهاز."
+
+msgid ""
+"Touch ID does not recognize your fingerprint. Please try again with your "
+"enrolled fingerprint."
+msgstr ""
+"لا يتعرف Touch ID على بصمة إصبعك. يرجى المحاولة مرة أخرى باستخدام بصمة إصبعك "
+"المسجلة."
+
+msgid ""
+"Face ID does not recognize your face. Please try again with your enrolled "
+"face."
+msgstr "لا يتعرف Face ID على وجهك. يرجى المحاولة مرة أخرى مع وجهك المسجل."
+
+msgid "No fingerprints/face enrolled in the device."
+msgstr "لم يتم تسجيل بصمات الأصابع / الوجه في الجهاز."
+
+msgid "Functionality is locked now, because of too many failed attempts."
+msgstr "العملية مقفلة الآن بسبب العديد من المحاولات الفاشلة."
+
+msgid "Register for Fingerprint"
+msgstr "التسجيل للحصول على بصمة الإصبع"
+
+msgid ""
+"Do you want to register this account for fingerprint functionality. Once "
+"done, you can login into this account without using email Id or password"
+msgstr ""
+"هل تريد تسجيل هذا الحساب لوظيفة بصمات الأصابع. بمجرد الانتهاء من ذلك ، يمكنك "
+"تسجيل الدخول إلى هذا الحساب دون استخدام معرف البريد الإلكتروني أو كلمة المرور"
+
+msgid "Register"
+msgstr "تسجيل"
+
+msgid "Verify"
+msgstr "تحقق"
+
+msgid "Get OTP"
+msgstr "احصل على OTP"
+
+msgid "Mobile Number"
+msgstr "رقم الهاتف المحمول"
+
+msgid "Mobile Number (Optional)"
+msgstr "رقم الجوال (اختياري)"
+
+msgid ""
+"Mobile number could not be verified! Please try again with the correct OTP "
+"number!"
+msgstr ""
+"لا يمكن التحقق من رقم الهاتف المحمول! يرجى المحاولة مرة أخرى باستخدام رقم "
+"OTP الصحيح!"
+
+msgid ""
+"Phone number is already registered. Please try again with another phone "
+"number!"
+msgstr "رقم الهاتف مسجل بالفعل. يرجى المحاولة مرة أخرى برقم هاتف آخر!"
+
+msgid "Number Verification"
+msgstr "التحقق من الرقم"
+
+msgid ""
+"You need to verify the phone number. Please enter the phone number and submit"
+msgstr "تحتاج إلى التحقق من رقم الهاتف. الرجاء إدخال رقم الهاتف والإرسال"
+
+msgid "Login with Phone Number"
+msgstr "تسجيل الدخول باستخدام رقم الهاتف"
+
+msgid "Enter the e-mail address or phone number associated with your account."
+msgstr "أدخل عنوان البريد الإلكتروني أو رقم الهاتف المرتبط بحسابك."
+
+msgid "Enter email or mobile number"
+msgstr "أدخل البريد الإلكتروني أو رقم الهاتف المحمول"
+
+msgid ""
+"One phone number is already registered with this account. You can only "
+"change the contact number. Please enter valid phone number."
+msgstr ""
+"تم تسجيل رقم هاتف واحد بالفعل في هذا الحساب. يمكنك فقط تغيير رقم الاتصال. "
+"الرجاء إدخال رقم هاتف صحيح."
+
+msgid "Enter OTP"
+msgstr "أدخل رمز OTP"
+
+msgid "Sec"
+msgstr "sec"
+
+msgid "Min"
+msgstr "Min"
+
+msgid "Hour"
+msgstr "Hour"
+
+msgid "Account has been mapped for the fingerprint login in this device"
+msgstr "تم تعيين الحساب لتسجيل الدخول ببصمة الإصبع في هذا الجهاز"
+
+msgid "Account could not be mapped for fingerprint login. Please try again."
+msgstr "تعذر تعيين الحساب لتسجيل الدخول ببصمة الإصبع. حاول مرة اخرى."
+
+msgid "Invalid Email ID or Unique ID."
+msgstr "معرف البريد الإلكتروني غير صالح أو معرف فريد."
+
+msgid "Mobile number does not exists into the database."
+msgstr "رقم الهاتف المحمول غير موجود في قاعدة البيانات."
+
+msgid "Mobile number exists into the database."
+msgstr "رقم الهاتف المحمول موجود في قاعدة البيانات."
+
+msgid "The password has been changed successfully."
+msgstr "تم تغيير كلمة المرور بنجاح."
+
+msgid "Invalid Phone Number."
+msgstr "رقم الهاتف غير صحيح."
+
+msgid "Sample Data Inserted successfully."
+msgstr "تم إدراج عينة من البيانات بنجاح."
+
+msgid "Relevance"
+msgstr "ملاءمة"
+
+msgid "Name: A to Z"
+msgstr "الاسم: من الألف إلى الياء"
+
+msgid "Name: Z to A"
+msgstr "الاسم: من ي إلى أ"
+
+msgid "Fish"
+msgstr "السمك"
+
+msgid "Shrimp"
+msgstr "الربيان"
+
+msgid "Crap"
+msgstr "القبقب"
+
+msgid "Lobster"
+msgstr "اللوبستر"
+
+msgid "Squid"
+msgstr "الحبار"
+
+msgid "Oyster"
+msgstr "المحار"
+
+msgid "Fillet"
+msgstr "الفيليه"
+
+msgid "Mussels"
+msgstr "ثمار البحر"
+
+msgid "The fit place for seafood plate"
+msgstr "المكان المناسب لجميع المأكولات البحرية"
+
+msgid "Ocean variety and prices in our store"
+msgstr "تشكيلة متنوعة بسعر المصدر"
+
+msgid "The wonders of the ocean"
+msgstr "عجائب المحيط بين يديك"
+
+msgid "Check our Offers"
+msgstr "تعرف على عروضنا"
+
+msgid "Processing"
+msgstr "قيد التنفيذ"
+
+msgid "Pending"
+msgstr "قيد الانتظار"
+
+msgid "On hold"
+msgstr "قيد الإنتظار"
+
+msgid "Completed"
+msgstr "مكتمل"
+
+msgid "Cancelled"
+msgstr "ملغي"
+
+msgid "Refunded"
+msgstr "مسترد"
+
+msgid "Failed"
+msgstr "فشل العملية"
+
+msgid "Related Products"
+msgstr "منتجات ذات صله"
+
+msgid "View Reviews"
+msgstr "مشاهدة التعليقات"
+
+msgid "Write reviews"
+msgstr "اكتب مراجعات"
+
+msgid "Please fill all details"
+msgstr "يرجى ملء جميع التفاصيل"
+
+msgid "Close"
+msgstr "يغلق"
+
+msgid "Add Review"
+msgstr "يغلق"
+
+msgid "Write a review"
+msgstr "أكتب مراجعة"
+
+msgid "Nick"
+msgstr "اسم"
+
+msgid "Title"
+msgstr "لقب"
+
+msgid "No Reviews for the product"
+msgstr "لا يوجد مراجعات للمنتج"
+
+msgid "Number of reviews"
+msgstr "عدد المراجعات"
+
+msgid "Please add minimum rating"
+msgstr "الرجاء إضافة الحد الأدنى من التصنيف"
+
+msgid "Error"
+msgstr "خطأ"
+
+msgid "No Reviews"
+msgstr "لم يتم تقديم تعليقات"

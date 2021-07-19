@@ -1,0 +1,1608 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Knowband Mobile App Builder\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-03-23 14:22+0000\n"
+"PO-Revision-Date: 2018-03-23 14:32+0000\n"
+"Last-Translator: admin <hagarwal@velsof.com>\n"
+"Language-Team: English (United States)\n"
+"Language: en_US\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/"
+
+
+msgid "Configuration values have been saved successfully."
+msgstr ""
+
+msgid "Push Notification has been sent successfully."
+msgstr ""
+
+msgid "Your order"
+msgstr ""
+
+msgid "Please check the form carefully for errors."
+msgstr ""
+
+msgid "Mobile App Builder"
+msgstr ""
+
+msgid "General Settings"
+msgstr ""
+
+msgid "Push Notification Settings"
+msgstr ""
+
+msgid "Push Notification History"
+msgstr ""
+
+msgid "Slideshow Settings"
+msgstr ""
+
+msgid "Banners Settings"
+msgstr ""
+
+msgid "Payment Methods"
+msgstr ""
+
+msgid "Featured"
+msgstr ""
+
+msgid "Specials"
+msgstr ""
+
+msgid "Best Sellers"
+msgstr ""
+
+msgid "Latest"
+msgstr ""
+
+msgid "Information Pages"
+msgstr ""
+
+msgid "Google Login Settings"
+msgstr ""
+
+msgid "FaceBook Login Settings"
+msgstr ""
+
+msgid "Enable/Disable"
+msgstr ""
+
+msgid "This setting will enable/disable entire mobile app functionality."
+msgstr ""
+
+msgid "Enable Request Log Reporting"
+msgstr ""
+
+msgid "This setting will enable/disable error log reporting for every request to Web Services of the module."
+msgstr ""
+
+msgid "Enable Live Chat Support"
+msgstr ""
+
+msgid "This setting will enable/disable live chat support option in mobile app."
+msgstr ""
+
+msgid "Live Chat API Key"
+msgstr ""
+
+msgid "Enter API Key."
+msgstr ""
+
+msgid "Custom CSS"
+msgstr ""
+
+msgid "Add custom CSS. Please do not add style tags."
+msgstr ""
+
+msgid "Category Image Width"
+msgstr ""
+
+msgid "Value must be between 1 and 999."
+msgstr ""
+
+msgid "Category Image Height"
+msgstr ""
+
+msgid "Product Image Width"
+msgstr ""
+
+msgid "Product Image Height"
+msgstr ""
+
+msgid "Start date from which the prodcuts will be considered as New"
+msgstr ""
+
+msgid "Number of products to be considered as New"
+msgstr ""
+
+msgid "Show Price"
+msgstr ""
+
+msgid "Firebase Server Key"
+msgstr ""
+
+msgid "Enter Server Key of Firebase."
+msgstr ""
+
+msgid "Order Success Notification"
+msgstr ""
+
+msgid "Status"
+msgstr ""
+
+msgid "This setting will enable/disable order success push notification functionality."
+msgstr ""
+
+msgid "Notification Title"
+msgstr ""
+
+msgid "Enter Title for Order Success Notification."
+msgstr ""
+
+msgid "Notification Message"
+msgstr ""
+
+msgid "Enter message for Order Success Notification."
+msgstr ""
+
+msgid "Order Status Update Notification"
+msgstr ""
+
+msgid "This setting will enable/disable Order status change push notification functionality."
+msgstr ""
+
+msgid "Enter title for Order status change Notification. You can use {{STATUS}} placeholder to use status value."
+msgstr ""
+
+msgid "Enter message for Status Change Notification. You can use {{STATUS}} placeholder to use status value."
+msgstr ""
+
+msgid "Abandoned Cart Notification"
+msgstr ""
+
+msgid "This setting will enable/disable abandoned cart push notification functionality."
+msgstr ""
+
+msgid "Enter title for Abandoned Cart Notification."
+msgstr ""
+
+msgid "Enter message for Abandoend Cart Notification."
+msgstr ""
+
+msgid "Time interval to check Abandoned Cart"
+msgstr ""
+
+msgid "In Hours"
+msgstr ""
+
+msgid "Send Push Notification"
+msgstr ""
+
+msgid "Send Notification"
+msgstr ""
+
+msgid "Close"
+msgstr ""
+
+msgid "Title"
+msgstr ""
+
+msgid "Message"
+msgstr ""
+
+msgid "Image"
+msgstr ""
+
+msgid "Redirect Activity"
+msgstr ""
+
+msgid "Home"
+msgstr ""
+
+msgid "Category"
+msgstr ""
+
+msgid "Product"
+msgstr ""
+
+msgid "Notification ID"
+msgstr ""
+
+msgid "Sent On"
+msgstr ""
+
+msgid "Details"
+msgstr ""
+
+msgid "View Details"
+msgstr ""
+
+msgid "Hide Details"
+msgstr ""
+
+msgid "No History Found."
+msgstr ""
+
+msgid "Slideshow Name"
+msgstr ""
+
+msgid "Limit"
+msgstr ""
+
+msgid "Maximum limit is 5."
+msgstr ""
+
+msgid "Value must be between 600 and 999. Width and Height should be in ratio 3:1 for better results."
+msgstr ""
+
+msgid "Value must be between 200 and 999. Width and Height should be in ratio 3:1 for better results."
+msgstr ""
+
+msgid "Slideshow Title"
+msgstr ""
+
+msgid "Link Type"
+msgstr ""
+
+msgid "Link To"
+msgstr ""
+
+msgid "Slideshow Image"
+msgstr ""
+
+msgid "Sort Order"
+msgstr ""
+
+msgid "Action"
+msgstr ""
+
+msgid "Select Link Type"
+msgstr ""
+
+msgid "Select Link To"
+msgstr ""
+
+msgid "Banner Name"
+msgstr ""
+
+msgid "Image Width"
+msgstr ""
+
+msgid "Image Height"
+msgstr ""
+
+msgid "Banner Title"
+msgstr ""
+
+msgid "Banner Image"
+msgstr ""
+
+msgid "PayPal"
+msgstr ""
+
+msgid "This setting will enable/disable paypal on App."
+msgstr ""
+
+msgid "Payment Method Name"
+msgstr ""
+
+msgid "Enter Payment Method Name to be displayed on App."
+msgstr ""
+
+msgid "Payment Method Code"
+msgstr ""
+
+msgid "Enter Payment Method Code to be displayed on App."
+msgstr ""
+
+msgid "Select Mode"
+msgstr ""
+
+msgid "Live"
+msgstr ""
+
+msgid "Sandbox"
+msgstr ""
+
+msgid "Client ID"
+msgstr ""
+
+msgid "Cash On Delivery"
+msgstr ""
+
+msgid "This setting will enable/disable Cash On Delivery on App."
+msgstr ""
+
+msgid "Maximum limit is 40."
+msgstr ""
+
+msgid "Add New Page"
+msgstr ""
+
+msgid "Page Title"
+msgstr ""
+
+msgid "Link To Information Page"
+msgstr ""
+
+msgid "No Record Found."
+msgstr ""
+
+msgid "Google Login"
+msgstr ""
+
+msgid "Upload Google JSON File"
+msgstr ""
+
+msgid "Invalid File."
+msgstr ""
+
+msgid "FaceBook Login"
+msgstr ""
+
+msgid "FaceBook App ID"
+msgstr ""
+
+msgid "Invalid FaceBook App ID."
+msgstr ""
+
+msgid "Validate"
+msgstr ""
+
+msgid "Please Wait..."
+msgstr ""
+
+msgid "FaceBook App ID validated successfully."
+msgstr ""
+
+msgid "Are you sure to delete ?"
+msgstr ""
+
+msgid "Only alphabets are allowed."
+msgstr ""
+
+msgid "Field should be alphanumeric."
+msgstr ""
+
+msgid "Field cannot be empty."
+msgstr ""
+
+msgid "You can enter only numbers."
+msgstr ""
+
+msgid "Number should be greater than 0."
+msgstr ""
+
+msgid "Field cannot be greater than # characters."
+msgstr ""
+
+msgid "Field cannot be less than # character(s)."
+msgstr ""
+
+msgid "Please enter Email."
+msgstr ""
+
+msgid "Please enter a valid Email."
+msgstr ""
+
+msgid "Invalid date format."
+msgstr ""
+
+msgid "Number is not in the valid range. It should be between # and !!"
+msgstr ""
+
+msgid "Phone number is invalid."
+msgstr ""
+
+msgid "Please enter phone number."
+msgstr ""
+
+msgid "Phone number cannot be less than # characters."
+msgstr ""
+
+msgid "Phone number cannot be greater than # characters."
+msgstr ""
+
+msgid "Invalid URL format."
+msgstr ""
+
+msgid "Please enter URL."
+msgstr ""
+
+msgid "Field should be numeric."
+msgstr ""
+
+msgid "Field can have only upto two decimal values."
+msgstr ""
+
+msgid "Email cannot be greater than # characters."
+msgstr ""
+
+msgid "Zip should not have special characters."
+msgstr ""
+
+msgid "SKU should not have special characters."
+msgstr ""
+
+msgid "URL cannot be greater than # characters."
+msgstr ""
+
+msgid "Percentage should be in number."
+msgstr ""
+
+msgid "Percentage should be between 0 and 100."
+msgstr ""
+
+msgid "Field should be positive."
+msgstr ""
+
+msgid "Color could not be greater than # characters."
+msgstr ""
+
+msgid "Color is not valid."
+msgstr ""
+
+msgid "Special characters are not allowed."
+msgstr ""
+
+msgid "Script tags are not allowed."
+msgstr ""
+
+msgid "Style tags are not allowed."
+msgstr ""
+
+msgid "Iframe tags are not allowed."
+msgstr ""
+
+msgid "Uploaded file is not an image"
+msgstr ""
+
+msgid "Uploaded file size must be less than #."
+msgstr ""
+
+msgid "Field should not contain HTML tags."
+msgstr ""
+
+msgid "You can enter only positive numbers."
+msgstr ""
+
+msgid "Invalid comma (#) separated values."
+msgstr ""
+
+msgid "Warning: You do not have permission to access the module, Kindly install module !!"
+msgstr ""
+
+msgid "Warning: Invalid API Version !!"
+msgstr ""
+
+msgid "Prices"
+msgstr ""
+
+msgid "Cart Information could not be loaded."
+msgstr ""
+
+msgid "Quantity"
+msgstr ""
+
+msgid "Attributes"
+msgstr ""
+
+msgid "Subtotal"
+msgstr ""
+
+msgid "Total"
+msgstr ""
+
+msgid "Cart Information loaded successfully."
+msgstr ""
+
+msgid "Customer does not exist."
+msgstr ""
+
+msgid "Invalid Email Address."
+msgstr ""
+
+msgid "SKU"
+msgstr ""
+
+msgid "Discount"
+msgstr ""
+
+msgid "Tax"
+msgstr ""
+
+msgid "Shipping"
+msgstr ""
+
+msgid "Invalid Email Address or Order ID."
+msgstr ""
+
+msgid "Invalid Order ID."
+msgstr ""
+
+msgid "Order could not be created."
+msgstr ""
+
+msgid "Order created by this cart."
+msgstr ""
+
+msgid "Product successfully added into the cart."
+msgstr ""
+
+msgid "Product cannot be added into the cart."
+msgstr ""
+
+msgid "First Name"
+msgstr ""
+
+msgid "Last Name"
+msgstr ""
+
+msgid "Company"
+msgstr ""
+
+msgid "Address Line 1"
+msgstr ""
+
+msgid "Address Line 2"
+msgstr ""
+
+msgid "Town/City"
+msgstr ""
+
+msgid "State/County"
+msgstr ""
+
+msgid "Postcode/Zip"
+msgstr ""
+
+msgid "Country"
+msgstr ""
+
+msgid "Phone"
+msgstr ""
+
+msgid "Shipping address has been added successfully."
+msgstr ""
+
+msgid "Shipping address could not be added successfully."
+msgstr ""
+
+msgid "Shipping address has been updated successfully."
+msgstr ""
+
+msgid "Shipping address could not be updated successfully."
+msgstr ""
+
+msgid "User login successfully."
+msgstr ""
+
+msgid "User login failed."
+msgstr ""
+
+msgid "Customer registration failed."
+msgstr ""
+
+msgid "Customer successfully created."
+msgstr ""
+
+msgid "Enter a username or email address."
+msgstr ""
+
+msgid "Invalid username or email."
+msgstr ""
+
+msgid "Password reset is not allowed for this user."
+msgstr ""
+
+msgid "Coupon could not be applied."
+msgstr ""
+
+msgid "Coupon applied successfully."
+msgstr ""
+
+msgid "Coupon could not be removed."
+msgstr ""
+
+msgid "Coupon removed successfully."
+msgstr ""
+
+msgid "Product could not be removed."
+msgstr ""
+
+msgid "Product successfully removed."
+msgstr ""
+
+msgid "Product could not be updated."
+msgstr ""
+
+msgid "Product successfully updated."
+msgstr ""
+
+msgid "Invalid email or wrong password."
+msgstr ""
+
+msgid "Customer profile updated successfully."
+msgstr ""
+
+msgid "Cart id or FCM id not found"
+msgstr ""
+
+msgid "Categories"
+msgstr ""
+
+msgid "Login"
+msgstr ""
+
+msgid "Logout"
+msgstr ""
+
+msgid "Login/Sign up"
+msgstr ""
+
+msgid "My Account"
+msgstr ""
+
+msgid "Contact Us"
+msgstr ""
+
+msgid "About Us"
+msgstr ""
+
+msgid "Add to Wishlist"
+msgstr ""
+
+msgid "Add to Cart"
+msgstr ""
+
+msgid "off"
+msgstr ""
+
+msgid "All"
+msgstr ""
+
+msgid "Language(s)"
+msgstr ""
+
+msgid "Sort"
+msgstr ""
+
+msgid "Filter"
+msgstr ""
+
+msgid "Select Sort Order"
+msgstr ""
+
+msgid "Price: Low to High"
+msgstr ""
+
+msgid "Price: High to Low"
+msgstr ""
+
+msgid "Select"
+msgstr ""
+
+msgid "In Stock"
+msgstr ""
+
+msgid "Out of Stock"
+msgstr ""
+
+msgid "Product Info and Care"
+msgstr ""
+
+msgid "Product Customization"
+msgstr ""
+
+msgid "Accessories"
+msgstr ""
+
+msgid "View Less"
+msgstr ""
+
+msgid "View More"
+msgstr ""
+
+msgid "Please provide details"
+msgstr ""
+
+msgid "Shopping Bag"
+msgstr ""
+
+msgid "Apply Voucher"
+msgstr ""
+
+msgid "Enter voucher code"
+msgstr ""
+
+msgid "Apply"
+msgstr ""
+
+msgid "Gift Wrap"
+msgstr ""
+
+msgid "Enter your message"
+msgstr ""
+
+msgid "Send available products first"
+msgstr ""
+
+msgid "Continue Shopping"
+msgstr ""
+
+msgid "Continue To Checkout"
+msgstr ""
+
+msgid "Update Quantity"
+msgstr ""
+
+msgid "Enter quantity (0-10)"
+msgstr ""
+
+msgid "Your shopping cart is empty!"
+msgstr ""
+
+msgid "Go to Home Page"
+msgstr ""
+
+msgid "Review Your Order"
+msgstr ""
+
+msgid "Shipping Details"
+msgstr ""
+
+msgid "Order Summary"
+msgstr ""
+
+msgid "Shipping Methods"
+msgstr ""
+
+msgid "Order Comment"
+msgstr ""
+
+msgid "Payment Summary"
+msgstr ""
+
+msgid "Proceed To Payment"
+msgstr ""
+
+msgid "Make Payment"
+msgstr ""
+
+msgid "Congratulations"
+msgstr ""
+
+msgid "Shipping Address(s)"
+msgstr ""
+
+msgid "Order Detail"
+msgstr ""
+
+msgid "Update Personal Details"
+msgstr ""
+
+msgid "Update Password"
+msgstr ""
+
+msgid "Current Password"
+msgstr ""
+
+msgid "New Password"
+msgstr ""
+
+msgid "Confirm Password"
+msgstr ""
+
+msgid "Cancel"
+msgstr ""
+
+msgid "Save"
+msgstr ""
+
+msgid "Order Reference"
+msgstr ""
+
+msgid "Placed On"
+msgstr ""
+
+msgid "Reorder"
+msgstr ""
+
+msgid "Order Details"
+msgstr ""
+
+msgid "Status History"
+msgstr ""
+
+msgid "Shipping Address"
+msgstr ""
+
+msgid "Shipping Method"
+msgstr ""
+
+msgid "Payment Method"
+msgstr ""
+
+msgid "Gift Wrapping"
+msgstr ""
+
+msgid "No shipping address available!"
+msgstr ""
+
+msgid "No order details available!"
+msgstr ""
+
+msgid "Sign Up"
+msgstr ""
+
+msgid "Continue as Guest"
+msgstr ""
+
+msgid "Email"
+msgstr ""
+
+msgid "Password"
+msgstr ""
+
+msgid "Forgot Password"
+msgstr ""
+
+msgid "You can login with social account."
+msgstr ""
+
+msgid "Login with Google+"
+msgstr ""
+
+msgid "Login with Facebook"
+msgstr ""
+
+msgid "Signup with Google+"
+msgstr ""
+
+msgid "Signup with Facebook"
+msgstr ""
+
+msgid "Please enter valid email!"
+msgstr ""
+
+msgid "Please enter email!"
+msgstr ""
+
+msgid "Please enter password!"
+msgstr ""
+
+msgid "Please enter password having characters more that or equal to 3!"
+msgstr ""
+
+msgid "Date of Birth"
+msgstr ""
+
+msgid "Personal Details"
+msgstr ""
+
+msgid "Password and confirm password do not match!"
+msgstr ""
+
+msgid "Sold By:"
+msgstr ""
+
+msgid "Write Review"
+msgstr ""
+
+msgid "View Review(s)"
+msgstr ""
+
+msgid "View Seller Product(s)"
+msgstr ""
+
+msgid "Please wait"
+msgstr ""
+
+msgid "Loading data..."
+msgstr ""
+
+msgid "Something went wrong. Please try again."
+msgstr ""
+
+msgid "No internet connection found."
+msgstr ""
+
+msgid "No Internet"
+msgstr ""
+
+msgid "Request cannot be process. This might be because of slow internet connection."
+msgstr ""
+
+msgid "Your order has been placed successfully. You will receive an email regarding the same."
+msgstr ""
+
+msgid "You can look for product(s) by their category."
+msgstr ""
+
+msgid "You can search any product in store by text or voice!"
+msgstr ""
+
+msgid "You can view shopping cart with quantity!"
+msgstr ""
+
+msgid "You are logout successfully!"
+msgstr ""
+
+msgid "You can view product in list or grid mode!"
+msgstr ""
+
+msgid "You can sort product by their price!"
+msgstr ""
+
+msgid "You can filter product(s) as per your need!"
+msgstr ""
+
+msgid "Next"
+msgstr ""
+
+msgid "Okay"
+msgstr ""
+
+msgid "Required"
+msgstr ""
+
+msgid "Please select rating"
+msgstr ""
+
+msgid "You can add product to shopping cart by simply clicking on the button Add to Cart!"
+msgstr ""
+
+msgid "You can add product to wishlist by simply clicking on the button Add to Wishlist!"
+msgstr ""
+
+msgid "Product price has been updated!"
+msgstr ""
+
+msgid "This product is not available for order!"
+msgstr ""
+
+msgid "This combination does not exist for this product. Please select another combination."
+msgstr ""
+
+msgid "This product is not available in the desired quantity or not in stock!"
+msgstr ""
+
+msgid "Some of the products in the cart are not available in the desired quantity or not in stock. Please remove such product(s) from cart!"
+msgstr ""
+
+msgid "You can checkout products in shopping cart by simply clicking on the button Continue to Checkout."
+msgstr ""
+
+msgid "You can apply voucher to shopping cart!"
+msgstr ""
+
+msgid "You can update quantity of product or remove it from shopping cart!"
+msgstr ""
+
+msgid "You can view product details by clicking on product image!"
+msgstr ""
+
+msgid "Success!"
+msgstr ""
+
+msgid "Failure!"
+msgstr ""
+
+msgid "Please enter quantity"
+msgstr ""
+
+msgid "Remove"
+msgstr ""
+
+msgid "Customization Details"
+msgstr ""
+
+msgid "You can add new shipping address by clicking on the button!"
+msgstr ""
+
+msgid "You can update shipping address!"
+msgstr ""
+
+msgid "You can select any shipping address by simply clicking on it!"
+msgstr ""
+
+msgid "*Please select shipping address to review your order."
+msgstr ""
+
+msgid "No products available!"
+msgstr ""
+
+msgid "No comment(s) available!"
+msgstr ""
+
+msgid "You can reset your password by clicking `Forget Password`"
+msgstr ""
+
+msgid "You can login into the store from here!"
+msgstr ""
+
+msgid "You can also login into the store from your Facebook account!"
+msgstr ""
+
+msgid "You can also login into the store from your Google account!"
+msgstr ""
+
+msgid "You can update your profile details, shipping details or view your order details from here!"
+msgstr ""
+
+msgid "Currency(s)"
+msgstr ""
+
+msgid "Address(s)"
+msgstr ""
+
+msgid "Billing Address(s)"
+msgstr ""
+
+msgid "Update Address"
+msgstr ""
+
+msgid "View Your Store"
+msgstr ""
+
+msgid "Billing Address"
+msgstr ""
+
+msgid "Billing Details"
+msgstr ""
+
+msgid "Download"
+msgstr ""
+
+msgid "Minimal Quantity"
+msgstr ""
+
+msgid "Pack Content"
+msgstr ""
+
+msgid "Seller Details"
+msgstr ""
+
+msgid "Submit"
+msgstr ""
+
+msgid "Enter the e-mail address associated with your account.Click submit to have your password e-mailed to you."
+msgstr ""
+
+msgid "Enter your email"
+msgstr ""
+
+msgid "Reset Password"
+msgstr ""
+
+msgid "You can view your selected filter result by clicking on this image!"
+msgstr ""
+
+msgid "You can clear the applied filter by clicking on this image!"
+msgstr ""
+
+msgid "No filters"
+msgstr ""
+
+msgid "*You must register at least one phone number"
+msgstr ""
+
+msgid "Refresh"
+msgstr ""
+
+msgid "Internet Connection Failed!"
+msgstr ""
+
+msgid "There might be some problem with your internet connection. Please check."
+msgstr ""
+
+msgid "Cancel transaction"
+msgstr ""
+
+msgid "You are in the middle of your payment transaction process.Do you really want cancel your transaction?"
+msgstr ""
+
+msgid "Yes"
+msgstr ""
+
+msgid "No"
+msgstr ""
+
+msgid "Enter your comment"
+msgstr ""
+
+msgid "For some product(s),shipping methods are not available. Please remove such product(s) from cart and try again."
+msgstr ""
+
+msgid "Same as Shipping Address"
+msgstr ""
+
+msgid "Share Log"
+msgstr ""
+
+msgid "PayPal Payment"
+msgstr ""
+
+msgid "Your order could not be processed. Kindly contact support for any queries"
+msgstr ""
+
+msgid "Choose Payment Method"
+msgstr ""
+
+msgid "No Payment Method(s) Found!"
+msgstr ""
+
+msgid "There are no payment method currently."
+msgstr ""
+
+msgid "You would not be able to make payment as this mobile App is setup for demo purpose."
+msgstr ""
+
+msgid "You can make payment after selecting any payment method!"
+msgstr ""
+
+msgid "Order Total Price"
+msgstr ""
+
+msgid "User cancelled the payment"
+msgstr ""
+
+msgid "Invalid payment. Kindly try again"
+msgstr ""
+
+msgid "Share"
+msgstr ""
+
+msgid "Terms and Conditions of Use"
+msgstr ""
+
+msgid "Wishlist"
+msgstr ""
+
+msgid "Remove from Wishlist"
+msgstr ""
+
+msgid "State not required for selected country"
+msgstr ""
+
+msgid "Some error occurred while processing the payment. Kindly try again"
+msgstr ""
+
+msgid "You might have entered wrong URL or you have not installed our mobile app builder bodule."
+msgstr ""
+
+msgid "Login Failed!"
+msgstr ""
+
+msgid "Install Module"
+msgstr ""
+
+msgid "Choose Your App Theme"
+msgstr ""
+
+msgid "No data found"
+msgstr ""
+
+msgid "Please enter store URL"
+msgstr ""
+
+msgid "Please fill all the required fields."
+msgstr ""
+
+msgid "Please fill the details!"
+msgstr ""
+
+msgid "Your Name*"
+msgstr ""
+
+msgid "Email*"
+msgstr ""
+
+msgid "Your Store Url*"
+msgstr ""
+
+msgid "Continue"
+msgstr ""
+
+msgid "Invalid Store URL!"
+msgstr ""
+
+msgid "Invalid Email!"
+msgstr ""
+
+msgid "Seller Dashboard"
+msgstr ""
+
+msgid "Exit Seller Account"
+msgstr ""
+
+msgid "Do you really want to exit from your seller account?"
+msgstr ""
+
+msgid "Restricted navigation!"
+msgstr ""
+
+msgid "You can not visit link outside the seller account."
+msgstr ""
+
+msgid "Register as seller"
+msgstr ""
+
+msgid "Select language"
+msgstr ""
+
+msgid "Select font"
+msgstr ""
+
+msgid "Share Feedback"
+msgstr ""
+
+msgid "Select Theme Color"
+msgstr ""
+
+msgid "Select Button Color"
+msgstr ""
+
+msgid "Sellers"
+msgstr ""
+
+msgid "Seller"
+msgstr ""
+
+msgid "Shipping Policy"
+msgstr ""
+
+msgid "Return Policy"
+msgstr ""
+
+msgid "Title *"
+msgstr ""
+
+msgid "Comment *"
+msgstr ""
+
+msgid "Rating *"
+msgstr ""
+
+msgid "Filter Product(s)"
+msgstr ""
+
+msgid "Select Category"
+msgstr ""
+
+msgid "Select Sort"
+msgstr ""
+
+msgid "Clear"
+msgstr ""
+
+msgid "Posted On:"
+msgstr ""
+
+msgid "Commented By:"
+msgstr ""
+
+msgid "Comment:"
+msgstr ""
+
+msgid "Explore the App"
+msgstr ""
+
+msgid "Nautica WooCoomerce"
+msgstr ""
+
+msgid "Hello world!"
+msgstr ""
+
+msgid "Settings"
+msgstr ""
+
+msgid "Hello blank fragment"
+msgstr ""
+
+msgid "RevealActivity"
+msgstr ""
+
+msgid "Search"
+msgstr ""
+
+msgid "SearchResultsActivity"
+msgstr ""
+
+msgid "Checkout"
+msgstr ""
+
+msgid "Internet Problem"
+msgstr ""
+
+msgid "Log In"
+msgstr ""
+
+msgid "Login/Signup"
+msgstr ""
+
+msgid "ActivityFilterCheckBoxSelection"
+msgstr ""
+
+msgid "Product Image Viewer"
+msgstr ""
+
+msgid "choose country"
+msgstr ""
+
+msgid "choose state"
+msgstr ""
+
+msgid "Add New Shipping Address"
+msgstr ""
+
+msgid "Seller Comment(s)"
+msgstr ""
+
+msgid "Server not found"
+msgstr ""
+
+msgid "Authorization Error"
+msgstr ""
+
+msgid "Network Connection Error.Please check your internet connection"
+msgstr ""
+
+msgid "Parsing Error in API"
+msgstr ""
+
+msgid "Cron Instructions"
+msgstr ""
+
+msgid "Add the cron to your store via control panel/putty to send the push notifications to your Mobile App users for Abandoned Carts."
+msgstr ""
+
+msgid "URL to Add to Cron via Control Panel"
+msgstr ""
+
+msgid "Cron setup via SSH"
+msgstr ""
+
+msgid "Add New"
+msgstr ""
+
+msgid "Sort order cannot be same."
+msgstr ""
+
+msgid "Sample Date"
+msgstr ""
+
+msgid "Following sample data will be inserted -"
+msgstr ""
+
+msgid "Plug-in Enabled ?"
+msgstr ""
+
+msgid "Show Price ?"
+msgstr ""
+
+msgid "Slideshow Status"
+msgstr ""
+
+msgid "Slideshow Limit"
+msgstr ""
+
+msgid "Slideshow Image Width"
+msgstr ""
+
+msgid "Slideshow Image Height"
+msgstr ""
+
+msgid "Total Slideshow Images"
+msgstr ""
+
+msgid "Banner Status"
+msgstr ""
+
+msgid "Banner Limit"
+msgstr ""
+
+msgid "Banner Image Width"
+msgstr ""
+
+msgid "Banner Image Height"
+msgstr ""
+
+msgid "Total Banner Images"
+msgstr ""
+
+msgid "Featured Enabled ?"
+msgstr ""
+
+msgid "Featured Limit"
+msgstr ""
+
+msgid "Feature Product Image Width"
+msgstr ""
+
+msgid "Feature Product Image Height"
+msgstr ""
+
+msgid "Special Enabled ?"
+msgstr ""
+
+msgid "Special Limit"
+msgstr ""
+
+msgid "Special Product Image Width"
+msgstr ""
+
+msgid "Special Product Image Height"
+msgstr ""
+
+msgid "Bestsellers Enabled ?"
+msgstr ""
+
+msgid "Bestsellers Limit"
+msgstr ""
+
+msgid "Bestsellers Product Image Width"
+msgstr ""
+
+msgid "Bestsellers Product Image Height"
+msgstr ""
+
+msgid "Latest Enabled ?"
+msgstr ""
+
+msgid "Latest Limit"
+msgstr ""
+
+msgid "Latest Product Image Width"
+msgstr ""
+
+msgid "Latest Product Image Height"
+msgstr ""
+
+msgid "Insert Sample Data"
+msgstr ""
+
+msgid "Warning: "
+msgstr ""
+
+msgid "Please ignore, if you have already done this. Otherwise it may lead to duplicate data or throw errors."
+msgstr ""
+
+msgid "Some error occurred."
+msgstr ""
+
+msgid "New"
+msgstr ""
+
+msgid "Sale"
+msgstr ""
+
+msgid "% off"
+msgstr ""
+
+msgid "Please select shipping method"
+msgstr ""
+
+msgid "Whatsapp is not installed on your device"
+msgstr ""
+
+msgid "No account is registered for the biometric authentication in this device. Please register an account first."
+msgstr ""
+
+msgid "Confirm your fingerprint or face to authenticate."
+msgstr ""
+
+msgid "Login with Fingerprint"
+msgstr ""
+
+msgid "Register for Fingerprint Login"
+msgstr ""
+
+msgid "Biometric authentication is not available for this device."
+msgstr ""
+
+msgid "Touch ID does not recognize your fingerprint. Please try again with your enrolled fingerprint."
+msgstr ""
+
+msgid "Face ID does not recognize your face. Please try again with your enrolled face."
+msgstr ""
+
+msgid "No fingerprints/face enrolled in the device."
+msgstr ""
+
+msgid "Functionality is locked now, because of too many failed attempts."
+msgstr ""
+
+msgid "Register for Fingerprint"
+msgstr ""
+
+msgid "Do you want to register this account for fingerprint functionality. Once done, you can login into this account without using email Id or password"
+msgstr ""
+
+msgid "Register"
+msgstr ""
+
+msgid "Verify"
+msgstr ""
+
+msgid "Get OTP"
+msgstr ""
+
+msgid "Mobile Number"
+msgstr ""
+
+msgid "Mobile Number (Optional)"
+msgstr ""
+
+msgid "Mobile number could not be verified! Please try again with the correct OTP number!"
+msgstr ""
+
+msgid "Phone number is already registered. Please try again with another phone number!"
+msgstr ""
+
+msgid "Number Verification"
+msgstr ""
+
+msgid "You need to verify the phone number. Please enter the phone number and submit"
+msgstr ""
+
+msgid "Login with Phone Number"
+msgstr ""
+
+msgid "Enter the e-mail address or phone number associated with your account."
+msgstr ""
+
+msgid "Enter email or mobile number"
+msgstr ""
+
+msgid "One phone number is already registered with this account. You can only change the contact number. Please enter valid phone number."
+msgstr ""
+
+msgid "Enter OTP"
+msgstr ""
+
+msgid "Sec"
+msgstr ""
+
+msgid "Min"
+msgstr ""
+
+msgid "Hour"
+msgstr ""
+
+msgid "Account has been mapped for the fingerprint login in this device"
+msgstr ""
+
+msgid "Account could not be mapped for fingerprint login. Please try again."
+msgstr ""
+
+msgid "Invalid Email ID or Unique ID."
+msgstr ""
+
+msgid "Mobile number does not exists into the database."
+msgstr ""
+
+msgid "Mobile number exists into the database."
+msgstr ""
+
+msgid "The password has been changed successfully."
+msgstr ""
+
+msgid "Invalid Phone Number."
+msgstr ""
+
+msgid "Sample Data Inserted successfully."
+msgstr ""
+
+msgid "Relevance"
+msgstr "Relevance"
+
+msgid "Name: A to Z"
+msgstr "Name: A to Z"
+
+msgid "Name: Z to A"
+msgstr "Name: Z to A"

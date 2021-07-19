@@ -1,0 +1,528 @@
+/*Toggle Button CSS*/
+
+.switch {
+  position: relative;
+  display: inline-block;
+  width: 60px;
+  height: 34px;
+}
+
+.switch input {display:none;}
+
+.slider {
+  position: absolute;
+  cursor: pointer;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: #ccc;
+  -webkit-transition: .4s;
+  transition: .4s;
+}
+
+.slider:before {
+  position: absolute;
+  content: "";
+  height: 26px;
+  width: 26px;
+  left: 4px;
+  bottom: 6px;
+  background-color: white;
+  -webkit-transition: .4s;
+  transition: .4s;
+}
+
+input:checked + .slider {
+  background-color: #2196F3;
+}
+
+input:focus + .slider {
+  box-shadow: 0 0 1px #2196F3;
+}
+
+input:checked + .slider:before {
+  -webkit-transform: translateX(26px);
+  -ms-transform: translateX(26px);
+  transform: translateX(26px);
+}
+
+/* Rounded sliders */
+.slider.round {
+  border-radius: 34px;
+}
+
+.slider.round:before {
+  border-radius: 50%;
+}
+
+#wmab-col-left {
+    float: left;
+    width: 19%;
+}
+
+#wmab-col-right {
+    float: right;
+    width: 80%;
+}
+
+.wmab-panel {
+    padding: 0px 20px;
+    background-color: #FFFFFF;
+    border: 1px solid #ddd;
+}
+
+.wmab-panel h2 {
+    border-bottom: solid 1px #eee;
+    padding-bottom: 10px;
+}
+
+#push_notification_settings, #push_notification_history, #slideshow_settings, #banners_settings, #payment_methods, #featured, #specials, #bestsellers, #latest, #information_pages, #google_login_settings, #fb_login_settings, #sample_settings, #contact_us {
+    display: none;
+}
+
+#active_date, #end_date, #after_time, #when_scroll, #countries, #select_pages {
+    display: none;
+}
+
+.wmab-submit-btn {
+    margin-top: 10px;
+}
+
+#wmab-col-left .list-group-item {
+    position: relative;
+    display: block;
+    padding: 10px 15px;
+    margin-bottom: -1px;
+    background-color: #fff;
+    border: 1px solid #ddd;
+}
+
+#wmab-col-left .list-group-item:hover {
+    background-color: #F7F7F7;
+    cursor: pointer;
+}
+
+#wmab-col-left .active, #wmab-col-left .active:hover {
+    background-color: #0073aa;
+    cursor: pointer;
+    color: #FFFFFF;
+}
+
+.velsof_error_label {
+    display: none;
+}
+
+.wheel_preview {
+    width: 100px;
+    border: 1px solid #CCC;
+}
+
+a {
+    box-shadow: none !important;
+}
+
+a img {
+    box-shadow: none !important;
+}
+
+.mab-table {
+    width: 100%;
+    border: 1px solid #cbcbcb;
+    border-collapse: collapse;
+    border-spacing: 0;
+    margin-bottom: 20px;
+}
+
+.mab-table td, .mab-table th {
+    border-left: 1px solid #cbcbcb;
+    border-width: 0 0 0 1px;
+    font-size: inherit;
+    margin: 0;
+    overflow: visible;
+    padding: 0.5em 1em;
+}
+
+.mab-table-odd td {
+    background-color: #f2f2f2;
+}
+
+.error_field {
+    border-color: red !important;
+}
+
+.mab_error, .mab_validation_error {
+    color: red !important;
+}
+
+.success_field {
+    color: green !important;
+}
+
+.mab-center {
+    text-align: center !important;
+}
+
+.mab-right {
+    text-align: right !important;
+}
+
+.mab-left {
+    text-align: left !important;
+}
+
+.form-field input[type=text], .form-field input[type=password], .form-field input[type=email], .form-field input[type=number], .form-field input[type=search], .form-field input[type=tel], .form-field input[type=url], .form-field textarea {
+    width: 100% !important;
+}
+
+.mab-table input, .mab-table select {
+    width: 100%;
+}
+
+#send_notification_panel {
+    margin: 0 auto 20px auto;
+    width: 70%;
+    padding: 10px 20px;
+    border: 1px solid #CCCCCC;
+    background-color: #F9F9F9;
+    display: none;
+}
+
+#send_notification_close {
+    display: none;
+}
+
+.wmab_pagination {
+    float: left;
+    padding: 0 0 10px 0;
+    width: 100%;
+}
+
+.wmab_pagination_left {
+    float: left;
+}
+
+.wmab_pagination_right {
+    float: right;
+}
+
+.wmab_clear {
+    clear: both;
+}
+
+.wmab_pagination .page-numbers {
+    padding: 0 5px;
+}
+
+.mab-table-bottom-border {
+    border-bottom: 1px solid #CCC;
+}
+
+.well {
+    min-height: 20px;
+    padding: 19px;
+    margin-bottom: 20px;
+    background-color: #f5f5f5;
+    border: 1px solid #e3e3e3;
+    border-radius: 3px;
+    -webkit-box-shadow: inset 0 1px 1px rgba(0, 0, 0, .05);
+    box-shadow: inset 0 1px 1px rgba(0, 0, 0, .05);
+}
+
+/*BOC neeraj.kumar@velsof.com Module Upgrade V2 changes for color picker*/
+.input-group{
+    position: relative;
+    display: flex;
+    border-collapse: separate;
+}
+.input-group-addon{
+    border: 0;
+    padding: 6px 8px;
+    margin: 0 0 0 3px;
+    background-color: #F5F8F9;
+    border-bottom: 1px solid #C7D6DB;
+    border-left: 1px solid #C7D6DB;
+    border-radius: 3px;
+    border-top: 1px solid #C7D6DB;
+}
+.color-picker-width{
+    width: 30% !important;
+}
+
+.style-home-layout{    
+    margin-left: -1%;
+    padding-left: 0px !important;
+}
+.productTabs{
+    padding-left: 10px !important;
+}
+.thead-heading{
+    border-bottom: 1px solid #cbcbcb;
+}
+.bottom-line{
+    padding-bottom: 18px !important;
+} 
+.back_btn_layout_page{
+    margin-right: 4%;
+}
+ul.slides {
+    padding: 3% !important;
+}
+.margin-5{
+    margin-right: 5% !important;
+}
+
+/* The Modal (background) */
+/* The Modal (background) */
+.modal {
+  display: none; /* Hidden by default */
+  position: fixed; /* Stay in place */
+  z-index: 1000; /* Sit on top */
+  padding-top: 4%;
+  left: 0;
+  width: 90%;
+  height: auto;
+  left: 10%;
+  overflow: auto; /* Enable scroll if needed */
+  background-color: rgb(0,0,0); /* Fallback color */
+  background-color: rgba(0,0,0,0.4); /* Black w/ opacity */
+}
+
+/* Modal Content */
+.modal-content {
+  position: relative;
+  background-color: #fefefe;
+  margin: auto;
+  padding: 0;
+  border: 1px solid #888;
+  width: 80%;
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2),0 6px 20px 0 rgba(0,0,0,0.19);
+  -webkit-animation-name: animatetop;
+  -webkit-animation-duration: 0.4s;
+  animation-name: animatetop;
+  animation-duration: 0.4s
+}
+
+/* Add Animation */
+@-webkit-keyframes animatetop {
+  from {top:-300px; opacity:0} 
+  to {top:0; opacity:1}
+}
+
+@keyframes animatetop {
+  from {top:-300px; opacity:0}
+  to {top:0; opacity:1}
+}
+
+/* The Close Button */
+.close {  
+  float: right;
+  font-size: 28px;
+  font-weight: bold;
+}
+
+.close:hover,
+.close:focus {
+  color: #000;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+.modal-header {
+  padding: 2px 16px;  
+  color: black;
+  padding: 1%;
+}
+
+.modal-body {padding: 10px 16px;}
+
+.modal-footer {
+  padding: 2px 16px;
+  background-color: #5cb85c;
+  color: white;
+}
+.width-10{
+    width:10% !important;
+}
+.panel .panel-heading{
+    font-family: "Ubuntu Condensed",Helvetica,Arial,sans-serif;
+    font-weight: 400;
+    font-size: 14px;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    color: #555;
+    height: 32px;
+}
+.modal-panel{
+    border: 1px solid beige;
+    padding: 1%;
+}
+.panel-heading{
+    border-bottom: 1px solid beige;
+    margin-bottom: 1%;
+}
+.margin-neg4{
+    margin-top: -4%;
+}
+span.label-tooltip{
+    text-decoration: none;
+    font-size: 13px;
+    color: #3586AE;
+    background-color: #edf7fb;
+    border: none;
+    border-bottom: solid 1px #D8EDF7;
+    padding: 0 5px;
+    -webkit-border-radius: 3px;
+    border-radius: 3px;
+}  
+label.control-label{
+    font-size: 13px;
+    font-weight: normal;
+    color: #666;
+}
+.wrapper-class{
+    width: 100%;
+    overflow-x: scroll;
+    overflow-y: visible;
+    z-index: 9999;    
+}
+.datepicker.dropdown-menu {
+    z-index: 9999 !important;
+}
+.bootstrap-datetimepicker-widget.dropdown-menu {
+    z-index: 9999 !important;
+}
+.text-align-center{text-align: center;}
+.custom-card-view{
+    position: relative;
+    margin-top: 20px;
+    padding: .7em 2em 1em;        
+    box-shadow: 0 1px 1px rgba(0,0,0,.04);
+    background: #fff;
+    box-sizing: border-box;
+    border: 1px solid #e5e5e5;    
+    margin-bottom: 1%;
+}
+.modal_extra_styles{
+    top: 0;
+    right: 0;
+    bottom: 0;
+}
+.select_style{
+    padding: 1%;
+    width: 35%;
+}
+
+.wp-picker-container input[type=text].wp-color-picker {
+	margin: -2px !important;
+}
+
+/*Mobile Preview CSS Starts Here - added by Harsh Agarwal on 03-Jun-2020*/
+
+#general_settings_mobile_preview {
+    position: fixed;
+    width: 262px;
+    height: 420px;
+    z-index: 9;
+    right: 40px;
+    text-align: right;
+    bottom: 50px;
+}
+
+#general_settings_mobile_preview .front_preview {
+    padding: 46px 0 55px;
+    min-height: 200px;
+    overflow: hidden;
+    clear: both;
+    background: url(../images/general_Settings_Mobile.png);
+}
+
+#general_settings_mobile_preview .front_preview .layout_gallery {
+    min-height: 355px;
+    position: relative;
+    overflow: hidden;
+    max-height: 202px;
+    max-width: 249px;
+    margin: 0 auto;
+}
+
+.topHeader {
+    background: #ff9757;
+    color: #fff;
+    font-size: 18px;
+    padding: 1px 10px;
+    float: left;
+    width: 100%;
+    box-sizing: border-box;
+    margin-top: 0px;
+}
+
+#general_settings_mobile_preview .front_preview .layout_gallery {
+    min-height: 355px;
+    position: relative;
+    overflow: hidden;
+    max-height: 202px;
+    max-width: 249px;
+    margin: 0 auto;
+}
+
+#general_settings_mobile_preview .front_preview .layout_gallery img {
+    width: 100%;
+}
+
+.chatBoxIcon {
+    position: absolute;
+    bottom: 10px;
+    width: 40px;
+    height: 40px;
+    background: #ff9757;
+    right: 10px;
+    border-radius: 50%;
+    line-height: 33px;
+    padding-top: 0px;
+}
+
+.chatBoxIcon img {
+    max-width: 24px;
+    padding: 9px 8px;
+}
+
+.logo {
+    display: inline-block;
+    vertical-align: middle;
+	margin-right: 1em;
+}
+
+.logo img {
+    max-width: 90px;
+    display: inline-block;
+    max-height: 36px;
+    object-fit: contain;
+}
+
+.logo p {
+    margin: 5px 0 5px;
+    font-size: 15px;
+	color: #FFFFFF !important;
+}
+
+.topHeader .leftmenu {
+    width: 20px;
+    float: left;
+    margin-top: 6px;
+}
+
+.searchBar, .cartSection {
+    float: right;
+    padding: 6px 0 0 10px;
+}
+
+.mobile_preview_button {
+	padding: 2px 5px;
+    border: 1px solid #0073AA;
+    margin-left: 20px;
+    background-color: #0073AA;
+    color: #FFF;
+}
+
+/*Mobile Preview CSS Ends Here*/
